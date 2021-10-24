@@ -1,0 +1,28 @@
+Container contains: 10 elements.
+1: Fraction number: -918/74 . Double cast = -12.405405
+2: Polar number: angle = 46.218959, coordinates =  (56, -683). Double cast =  685.291909
+3: Polar number: angle = 52.383502, coordinates =  (-275, -304). Double cast =  409.928042
+4: Polar number: angle = 3.529700, coordinates =  (-954, 468). Double cast =  1062.609994
+5: Fraction number: -123/304 . Double cast = -0.404605
+6: Fraction number: 617/158 . Double cast = 3.905063
+7: Fraction number: 431/100 . Double cast = 4.310000
+8: Complex number: real = 1364.701191, imaginary = 136.762198. Double cast = 1371.536816
+9: Polar number: angle = 157.736082, coordinates =  (371, -972). Double cast =  1040.396559
+10: Fraction number: -7/822 . Double cast = -0.008516
+
+
+===================================
+
+Sorted container:
+
+Container contains: 10 elements.
+1: Fraction number: -918/74 . Double cast = -12.405405
+2: Fraction number: -123/304 . Double cast = -0.404605
+3: Fraction number: -7/822 . Double cast = -0.008516
+4: Fraction number: 617/158 . Double cast = 3.905063
+5: Fraction number: 431/100 . Double cast = 4.310000
+6: Polar number: angle = 52.383502, coordinates =  (-275, -304). Double cast =  409.928042
+7: Polar number: angle = 46.218959, coordinates =  (56, -683). Double cast =  685.291909
+8: Polar number: angle = 157.736082, coordinates =  (371, -972). Double cast =  1040.396559
+9: Polar number: angle = 3.529700, coordinates =  (-954, 468). Double cast =  1062.609994
+10: Complex number: real = 1364.701191, imaginary = 136.762198. Double cast = 1371.536816

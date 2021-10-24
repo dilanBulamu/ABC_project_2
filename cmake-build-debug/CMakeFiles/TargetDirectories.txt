@@ -1,0 +1,3 @@
+/Users/dilanbulamu/Desktop/ABC_project_2-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dilanbulamu/Desktop/ABC_project_2-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dilanbulamu/Desktop/ABC_project_2-main/cmake-build-debug/CMakeFiles/ABC_HW2_Bulamu_Dilan.dir

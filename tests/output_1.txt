@@ -1,0 +1,10 @@
+Container contains: 1  elements.
+1: Fraction number: -918/74 . Double cast = -12.405405
+
+
+===================================
+
+Sorted container:
+
+Container contains: 1  elements.
+1: Fraction number: -918/74 . Double cast = -12.405405

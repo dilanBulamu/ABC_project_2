@@ -1,0 +1,2008 @@
+Container contains: 1000 elements.
+1: Fraction number: -918/74 . Double cast = -12.405405
+2: Polar number: angle = 46.218959, coordinates =  (56, -683). Double cast =  685.291909
+3: Polar number: angle = 52.383502, coordinates =  (-275, -304). Double cast =  409.928042
+4: Polar number: angle = 3.529700, coordinates =  (-954, 468). Double cast =  1062.609994
+5: Fraction number: -123/304 . Double cast = -0.404605
+6: Fraction number: 617/158 . Double cast = 3.905063
+7: Fraction number: 431/100 . Double cast = 4.310000
+8: Complex number: real = 1364.701191, imaginary = 136.762198. Double cast = 1371.536816
+9: Polar number: angle = 157.736082, coordinates =  (371, -972). Double cast =  1040.396559
+10: Fraction number: -7/822 . Double cast = -0.008516
+11: Fraction number: -806/394 . Double cast = -2.045685
+12: Complex number: real = 272.072686, imaginary = 1355.884707. Double cast = 1382.912465
+13: Complex number: real = 1999.766495, imaginary = 449.237774. Double cast = 2049.604989
+14: Fraction number: -897/491 . Double cast = -1.826884
+15: Complex number: real = 827.909208, imaginary = 1906.904653. Double cast = 2078.874458
+16: Fraction number: -538/25 . Double cast = -21.520000
+17: Polar number: angle = 7.266145, coordinates =  (-967, 83). Double cast =  970.555511
+18: Fraction number: -63/982 . Double cast = -0.064155
+19: Fraction number: 300/866 . Double cast = 0.346420
+20: Fraction number: 199/537 . Double cast = 0.370577
+21: Polar number: angle = 5.827817, coordinates =  (552, -400). Double cast =  681.692013
+22: Fraction number: -290/196 . Double cast = -1.479592
+23: Complex number: real = 1889.999458, imaginary = 678.233195. Double cast = 2008.008520
+24: Polar number: angle = 59.513274, coordinates =  (-634, 655). Double cast =  911.581593
+25: Fraction number: 224/439 . Double cast = 0.510251
+26: Complex number: real = 864.467917, imaginary = 1634.178328. Double cast = 1848.741082
+27: Polar number: angle = 200.802406, coordinates =  (-76, -280). Double cast =  290.131005
+28: Complex number: real = 311.748293, imaginary = 563.890737. Double cast = 644.328924
+29: Complex number: real = 617.159768, imaginary = 73.714710. Double cast = 621.546488
+30: Polar number: angle = 120.274588, coordinates =  (-625, 387). Double cast =  735.114957
+31: Fraction number: -814/114 . Double cast = -7.140351
+32: Fraction number: -132/963 . Double cast = -0.137072
+33: Fraction number: 573/83 . Double cast = 6.903614
+34: Fraction number: -291/822 . Double cast = -0.354015
+35: Complex number: real = 379.587187, imaginary = 425.590109. Double cast = 570.274822
+36: Complex number: real = 1880.148152, imaginary = 328.408767. Double cast = 1908.614521
+37: Polar number: angle = 103.252126, coordinates =  (-270, 973). Double cast =  1009.766805
+38: Fraction number: 839/320 . Double cast = 2.621875
+39: Complex number: real = 1889.126712, imaginary = 1832.621634. Double cast = 2631.976783
+40: Complex number: real = 138.476432, imaginary = 2000.203250. Double cast = 2004.990964
+41: Complex number: real = 1414.426497, imaginary = 1427.947487. Double cast = 2009.884659
+42: Fraction number: -566/395 . Double cast = -1.432911
+43: Fraction number: -334/845 . Double cast = -0.395266
+44: Fraction number: -32/160 . Double cast = -0.200000
+45: Fraction number: -691/386 . Double cast = -1.790155
+46: Fraction number: 109/540 . Double cast = 0.201852
+47: Polar number: angle = 72.679592, coordinates =  (426, -813). Double cast =  917.848027
+48: Fraction number: -617/969 . Double cast = -0.636739
+49: Fraction number: -496/626 . Double cast = -0.792332
+50: Polar number: angle = 34.632739, coordinates =  (188, 83). Double cast =  205.506691
+51: Complex number: real = 1684.987145, imaginary = 113.851270. Double cast = 1688.829119
+52: Complex number: real = 223.514435, imaginary = 1664.414028. Double cast = 1679.354864
+53: Complex number: real = 1813.440039, imaginary = 41.869264. Double cast = 1813.923320
+54: Complex number: real = 471.706535, imaginary = 748.019092. Double cast = 884.330039
+55: Fraction number: -551/996 . Double cast = -0.553213
+56: Complex number: real = 1119.488943, imaginary = 1318.682049. Double cast = 1729.791271
+57: Complex number: real = 565.865883, imaginary = 1388.543948. Double cast = 1499.419385
+58: Fraction number: -560/790 . Double cast = -0.708861
+59: Fraction number: 341/194 . Double cast = 1.757732
+60: Polar number: angle = 92.439726, coordinates =  (98, 806). Double cast =  811.935958
+61: Complex number: real = 499.999117, imaginary = 259.630488. Double cast = 563.388948
+62: Complex number: real = 1206.000879, imaginary = 843.727335. Double cast = 1471.840323
+63: Complex number: real = 546.682494, imaginary = 1349.205262. Double cast = 1455.752928
+64: Fraction number: -398/776 . Double cast = -0.512887
+65: Polar number: angle = 96.764005, coordinates =  (564, -453). Double cast =  723.398231
+66: Fraction number: 743/546 . Double cast = 1.360806
+67: Complex number: real = 615.389854, imaginary = 1334.692169. Double cast = 1469.730539
+68: Complex number: real = 912.783865, imaginary = 164.282156. Double cast = 927.449735
+69: Fraction number: 268/555 . Double cast = 0.482883
+70: Complex number: real = 584.819726, imaginary = 304.398144. Double cast = 659.296854
+71: Polar number: angle = 110.828355, coordinates =  (852, -706). Double cast =  1106.498983
+72: Fraction number: 748/608 . Double cast = 1.230263
+73: Polar number: angle = 2.696007, coordinates =  (-775, -158). Double cast =  790.941844
+74: Fraction number: -903/367 . Double cast = -2.460490
+75: Complex number: real = 435.227008, imaginary = 171.699834. Double cast = 467.871116
+76: Polar number: angle = 51.526123, coordinates =  (97, 544). Double cast =  552.580311
+77: Polar number: angle = 129.143045, coordinates =  (-813, 25). Double cast =  813.384288
+78: Complex number: real = 18.556836, imaginary = 38.316007. Double cast = 42.573144
+79: Fraction number: 522/634 . Double cast = 0.823344
+80: Polar number: angle = 27.430848, coordinates =  (-202, 545). Double cast =  581.230591
+81: Complex number: real = 1726.475896, imaginary = 978.279293. Double cast = 1984.376324
+82: Polar number: angle = 193.253922, coordinates =  (-482, 990). Double cast =  1101.101267
+83: Complex number: real = 600.720768, imaginary = 1325.460697. Double cast = 1455.235892
+84: Fraction number: 936/858 . Double cast = 1.090909
+85: Polar number: angle = 194.401833, coordinates =  (385, 635). Double cast =  742.596795
+86: Fraction number: -796/586 . Double cast = -1.358362
+87: Complex number: real = 1936.829239, imaginary = 57.274210. Double cast = 1937.675885
+88: Fraction number: 303/968 . Double cast = 0.313017
+89: Complex number: real = 167.246733, imaginary = 1545.694024. Double cast = 1554.715885
+90: Complex number: real = 831.022084, imaginary = 1142.706950. Double cast = 1412.932014
+91: Complex number: real = 1328.582421, imaginary = 393.991533. Double cast = 1385.770752
+92: Fraction number: -76/921 . Double cast = -0.082519
+93: Complex number: real = 666.495691, imaginary = 436.163081. Double cast = 796.526672
+94: Fraction number: -778/259 . Double cast = -3.003861
+95: Polar number: angle = 122.584787, coordinates =  (501, 37). Double cast =  502.364410
+96: Fraction number: 571/575 . Double cast = 0.993043
+97: Fraction number: 792/250 . Double cast = 3.168000
+98: Polar number: angle = 54.280289, coordinates =  (321, -165). Double cast =  360.923815
+99: Complex number: real = 1849.009348, imaginary = 1576.520960. Double cast = 2429.867055
+100: Polar number: angle = 147.055279, coordinates =  (425, 615). Double cast =  747.562706
+101: Polar number: angle = 141.050603, coordinates =  (-824, 68). Double cast =  826.801064
+102: Complex number: real = 1890.150312, imaginary = 1724.833682. Double cast = 2558.851194
+103: Polar number: angle = 146.681164, coordinates =  (383, 523). Double cast =  648.242239
+104: Complex number: real = 319.001657, imaginary = 779.029355. Double cast = 841.812802
+105: Polar number: angle = 188.576173, coordinates =  (-271, 726). Double cast =  774.930319
+106: Polar number: angle = 190.122507, coordinates =  (-286, 137). Double cast =  317.119851
+107: Fraction number: 429/691 . Double cast = 0.620839
+108: Complex number: real = 1076.954028, imaginary = 1500.838102. Double cast = 1847.253363
+109: Polar number: angle = 35.251528, coordinates =  (-47, -260). Double cast =  264.213928
+110: Complex number: real = 419.760617, imaginary = 1076.451851. Double cast = 1155.399309
+111: Polar number: angle = 150.116571, coordinates =  (-278, -356). Double cast =  451.685731
+112: Complex number: real = 824.175974, imaginary = 1080.431908. Double cast = 1358.896297
+113: Polar number: angle = 38.375310, coordinates =  (-510, -449). Double cast =  679.485835
+114: Fraction number: 501/930 . Double cast = 0.538710
+115: Fraction number: -575/167 . Double cast = -3.443114
+116: Polar number: angle = 121.769114, coordinates =  (344, 492). Double cast =  600.333241
+117: Complex number: real = 549.756770, imaginary = 1838.230572. Double cast = 1918.677707
+118: Fraction number: -89/902 . Double cast = -0.098670
+119: Complex number: real = 1958.224801, imaginary = 1873.653012. Double cast = 2710.206630
+120: Complex number: real = 1085.159758, imaginary = 1995.661994. Double cast = 2271.615833
+121: Polar number: angle = 60.484180, coordinates =  (-159, -225). Double cast =  275.510435
+122: Polar number: angle = 154.721872, coordinates =  (-207, -798). Double cast =  824.410699
+123: Polar number: angle = 68.771944, coordinates =  (376, 802). Double cast =  885.765206
+124: Fraction number: -58/602 . Double cast = -0.096346
+125: Fraction number: -24/104 . Double cast = -0.230769
+126: Complex number: real = 318.939725, imaginary = 798.254957. Double cast = 859.612428
+127: Fraction number: -699/906 . Double cast = -0.771523
+128: Complex number: real = 175.105185, imaginary = 1608.368562. Double cast = 1617.872448
+129: Polar number: angle = 129.713547, coordinates =  (730, 415). Double cast =  839.717214
+130: Fraction number: -674/950 . Double cast = -0.709474
+131: Polar number: angle = 127.605603, coordinates =  (-924, -532). Double cast =  1066.208235
+132: Polar number: angle = 106.240440, coordinates =  (-958, -182). Double cast =  975.134862
+133: Complex number: real = 1766.104969, imaginary = 1492.802019. Double cast = 2312.484514
+134: Fraction number: -14/690 . Double cast = -0.020290
+135: Polar number: angle = 61.263663, coordinates =  (-928, 93). Double cast =  932.648380
+136: Polar number: angle = 84.795353, coordinates =  (929, -711). Double cast =  1169.855547
+137: Fraction number: 49/936 . Double cast = 0.052350
+138: Complex number: real = 41.134039, imaginary = 895.946045. Double cast = 896.889806
+139: Complex number: real = 1513.063804, imaginary = 1746.292468. Double cast = 2310.605864
+140: Complex number: real = 123.834338, imaginary = 1088.329434. Double cast = 1095.351953
+141: Polar number: angle = 142.045341, coordinates =  (263, 155). Double cast =  305.276923
+142: Fraction number: -121/165 . Double cast = -0.733333
+143: Fraction number: -157/526 . Double cast = -0.298479
+144: Polar number: angle = 61.706461, coordinates =  (-40, -853). Double cast =  853.937351
+145: Polar number: angle = 154.200645, coordinates =  (403, 523). Double cast =  660.256011
+146: Polar number: angle = 11.977238, coordinates =  (-341, 747). Double cast =  821.151630
+147: Polar number: angle = 160.753174, coordinates =  (92, 905). Double cast =  909.664224
+148: Complex number: real = 845.536528, imaginary = 1848.403581. Double cast = 2032.616004
+149: Complex number: real = 975.850531, imaginary = 1595.311605. Double cast = 1870.107851
+150: Complex number: real = 33.639523, imaginary = 479.931915. Double cast = 481.109406
+151: Complex number: real = 1600.541535, imaginary = 1901.159216. Double cast = 2485.184011
+152: Complex number: real = 1220.155414, imaginary = 1310.343613. Double cast = 1790.469106
+153: Polar number: angle = 151.518773, coordinates =  (-591, -481). Double cast =  761.998688
+154: Polar number: angle = 58.674525, coordinates =  (893, -450). Double cast =  999.974500
+155: Fraction number: 940/218 . Double cast = 4.311927
+156: Fraction number: -854/466 . Double cast = -1.832618
+157: Fraction number: 740/880 . Double cast = 0.840909
+158: Complex number: real = 1956.026340, imaginary = 1042.762344. Double cast = 2216.617321
+159: Complex number: real = 1724.589809, imaginary = 1403.929698. Double cast = 2223.786997
+160: Polar number: angle = 88.831256, coordinates =  (-972, 316). Double cast =  1022.076318
+161: Fraction number: 576/495 . Double cast = 1.163636
+162: Fraction number: -351/313 . Double cast = -1.121406
+163: Fraction number: 97/233 . Double cast = 0.416309
+164: Fraction number: -774/199 . Double cast = -3.889447
+165: Polar number: angle = 115.495125, coordinates =  (-122, 442). Double cast =  458.528080
+166: Polar number: angle = 199.502275, coordinates =  (-68, 948). Double cast =  950.435690
+167: Complex number: real = 471.320642, imaginary = 93.245142. Double cast = 480.455830
+168: Fraction number: 620/670 . Double cast = 0.925373
+169: Fraction number: -904/312 . Double cast = -2.897436
+170: Fraction number: 279/817 . Double cast = 0.341493
+171: Fraction number: -48/640 . Double cast = -0.075000
+172: Polar number: angle = 37.710450, coordinates =  (553, 935). Double cast =  1086.293699
+173: Fraction number: 569/411 . Double cast = 1.384428
+174: Polar number: angle = 72.235403, coordinates =  (-673, 220). Double cast =  708.045902
+175: Polar number: angle = 130.681491, coordinates =  (600, -232). Double cast =  643.291536
+176: Fraction number: 162/891 . Double cast = 0.181818
+177: Fraction number: 605/442 . Double cast = 1.368778
+178: Fraction number: -331/785 . Double cast = -0.421656
+179: Polar number: angle = 100.506820, coordinates =  (-369, 202). Double cast =  420.672081
+180: Polar number: angle = 61.107739, coordinates =  (592, -417). Double cast =  724.122227
+181: Complex number: real = 576.297064, imaginary = 1928.338510. Double cast = 2012.612162
+182: Complex number: real = 1701.573183, imaginary = 1025.202482. Double cast = 1986.552649
+183: Polar number: angle = 182.864609, coordinates =  (-890, -900). Double cast =  1265.740890
+184: Fraction number: 971/15 . Double cast = 64.733333
+185: Fraction number: -259/151 . Double cast = -1.715232
+186: Polar number: angle = 197.424134, coordinates =  (305, 529). Double cast =  610.627546
+187: Complex number: real = 416.814416, imaginary = 140.919492. Double cast = 439.991546
+188: Complex number: real = 1756.170796, imaginary = 1322.031404. Double cast = 2198.158979
+189: Complex number: real = 978.861622, imaginary = 1028.869494. Double cast = 1420.120597
+190: Complex number: real = 601.811895, imaginary = 111.939871. Double cast = 612.134048
+191: Complex number: real = 939.749145, imaginary = 153.338085. Double cast = 952.176992
+192: Polar number: angle = 6.718919, coordinates =  (-869, -111). Double cast =  876.060500
+193: Fraction number: 303/421 . Double cast = 0.719715
+194: Fraction number: -367/369 . Double cast = -0.994580
+195: Complex number: real = 1764.562612, imaginary = 221.878192. Double cast = 1778.457518
+196: Fraction number: 423/572 . Double cast = 0.739510
+197: Polar number: angle = 23.113071, coordinates =  (-247, -300). Double cast =  388.598765
+198: Complex number: real = 1068.076822, imaginary = 1028.477641. Double cast = 1482.752290
+199: Fraction number: 187/411 . Double cast = 0.454988
+200: Fraction number: 318/343 . Double cast = 0.927114
+201: Complex number: real = 1453.859213, imaginary = 405.428873. Double cast = 1509.330707
+202: Polar number: angle = 12.483873, coordinates =  (866, 713). Double cast =  1121.750864
+203: Complex number: real = 955.300122, imaginary = 1836.110018. Double cast = 2069.758035
+204: Polar number: angle = 90.408177, coordinates =  (-483, 110). Double cast =  495.367540
+205: Fraction number: -157/499 . Double cast = -0.314629
+206: Complex number: real = 901.575679, imaginary = 11.585675. Double cast = 901.650117
+207: Fraction number: -939/291 . Double cast = -3.226804
+208: Complex number: real = 831.148787, imaginary = 1127.995401. Double cast = 1401.135943
+209: Complex number: real = 1099.849278, imaginary = 1706.793382. Double cast = 2030.470902
+210: Complex number: real = 472.479779, imaginary = 597.646495. Double cast = 761.852003
+211: Fraction number: -428/138 . Double cast = -3.101449
+212: Fraction number: 865/285 . Double cast = 3.035088
+213: Complex number: real = 1411.291525, imaginary = 1394.854365. Double cast = 1984.278829
+214: Polar number: angle = 149.602249, coordinates =  (-435, -876). Double cast =  978.059814
+215: Polar number: angle = 69.344456, coordinates =  (-191, 11). Double cast =  191.316492
+216: Complex number: real = 1514.634619, imaginary = 716.458046. Double cast = 1675.538768
+217: Complex number: real = 1224.755856, imaginary = 1826.011531. Double cast = 2198.714401
+218: Fraction number: -432/740 . Double cast = -0.583784
+219: Complex number: real = 1503.514590, imaginary = 307.842044. Double cast = 1534.706111
+220: Fraction number: 972/29 . Double cast = 33.517241
+221: Polar number: angle = 154.202449, coordinates =  (-683, 629). Double cast =  928.509558
+222: Polar number: angle = 119.293043, coordinates =  (-479, -146). Double cast =  500.756428
+223: Complex number: real = 1596.369040, imaginary = 62.627830. Double cast = 1597.597058
+224: Polar number: angle = 41.050482, coordinates =  (-62, -653). Double cast =  655.936735
+225: Fraction number: -189/881 . Double cast = -0.214529
+226: Complex number: real = 271.833378, imaginary = 398.658594. Double cast = 482.516383
+227: Complex number: real = 1534.921473, imaginary = 754.967723. Double cast = 1710.543829
+228: Polar number: angle = 13.719795, coordinates =  (-573, 229). Double cast =  617.065637
+229: Fraction number: 579/582 . Double cast = 0.994845
+230: Polar number: angle = 169.534876, coordinates =  (-331, 126). Double cast =  354.170863
+231: Polar number: angle = 145.917967, coordinates =  (-851, 161). Double cast =  866.095838
+232: Complex number: real = 628.836375, imaginary = 92.332928. Double cast = 635.578915
+233: Fraction number: -728/113 . Double cast = -6.442478
+234: Fraction number: -469/231 . Double cast = -2.030303
+235: Complex number: real = 807.126034, imaginary = 897.886726. Double cast = 1207.333014
+236: Complex number: real = 867.835997, imaginary = 690.623243. Double cast = 1109.098634
+237: Complex number: real = 743.391555, imaginary = 713.667348. Double cast = 1030.510596
+238: Complex number: real = 340.676065, imaginary = 372.454547. Double cast = 504.759914
+239: Fraction number: 325/819 . Double cast = 0.396825
+240: Polar number: angle = 76.661425, coordinates =  (493, -645). Double cast =  811.833727
+241: Polar number: angle = 24.442624, coordinates =  (841, -651). Double cast =  1063.523389
+242: Fraction number: 530/81 . Double cast = 6.543210
+243: Polar number: angle = 177.487212, coordinates =  (110, 505). Double cast =  516.841368
+244: Polar number: angle = 101.203158, coordinates =  (401, -804). Double cast =  898.452559
+245: Fraction number: -525/879 . Double cast = -0.597270
+246: Polar number: angle = 158.961436, coordinates =  (-856, -271). Double cast =  897.873599
+247: Complex number: real = 1626.050393, imaginary = 1693.641374. Double cast = 2347.863068
+248: Complex number: real = 740.129043, imaginary = 1476.501854. Double cast = 1651.620030
+249: Complex number: real = 1892.526454, imaginary = 1155.903056. Double cast = 2217.604170
+250: Complex number: real = 1337.386707, imaginary = 1717.831097. Double cast = 2177.050041
+251: Fraction number: -871/393 . Double cast = -2.216285
+252: Polar number: angle = 126.848695, coordinates =  (312, -670). Double cast =  739.083216
+253: Polar number: angle = 86.779658, coordinates =  (581, -196). Double cast =  613.169634
+254: Complex number: real = 442.157154, imaginary = 620.169110. Double cast = 761.651281
+255: Complex number: real = 1884.404765, imaginary = 1061.579362. Double cast = 2162.852760
+256: Polar number: angle = 164.699639, coordinates =  (437, 405). Double cast =  595.813729
+257: Polar number: angle = 123.264662, coordinates =  (939, -234). Double cast =  967.717417
+258: Fraction number: -359/729 . Double cast = -0.492455
+259: Complex number: real = 253.425107, imaginary = 1812.213568. Double cast = 1829.847617
+260: Complex number: real = 1353.929321, imaginary = 5.266287. Double cast = 1353.939563
+261: Complex number: real = 1790.257524, imaginary = 1058.282464. Double cast = 2079.659534
+262: Complex number: real = 53.928528, imaginary = 43.616563. Double cast = 69.359143
+263: Complex number: real = 1314.907848, imaginary = 1752.114107. Double cast = 2190.636093
+264: Fraction number: 423/161 . Double cast = 2.627329
+265: Complex number: real = 1016.894964, imaginary = 47.345891. Double cast = 1017.996562
+266: Polar number: angle = 178.331292, coordinates =  (-851, 342). Double cast =  917.150478
+267: Complex number: real = 1211.729983, imaginary = 1768.877797. Double cast = 2144.112453
+268: Fraction number: -237/860 . Double cast = -0.275581
+269: Complex number: real = 312.080655, imaginary = 1371.776393. Double cast = 1406.827924
+270: Complex number: real = 593.817317, imaginary = 1613.435375. Double cast = 1719.241902
+271: Complex number: real = 211.281545, imaginary = 1741.626152. Double cast = 1754.394923
+272: Polar number: angle = 25.776418, coordinates =  (402, 146). Double cast =  427.691478
+273: Fraction number: -152/514 . Double cast = -0.295720
+274: Polar number: angle = 130.133293, coordinates =  (-213, -771). Double cast =  799.881241
+275: Fraction number: -651/255 . Double cast = -2.552941
+276: Fraction number: -944/616 . Double cast = -1.532468
+277: Polar number: angle = 88.081326, coordinates =  (-894, -971). Double cast =  1319.877646
+278: Complex number: real = 1836.944193, imaginary = 1322.060262. Double cast = 2263.229397
+279: Fraction number: -190/785 . Double cast = -0.242038
+280: Complex number: real = 311.599194, imaginary = 1829.053727. Double cast = 1855.406045
+281: Fraction number: -626/365 . Double cast = -1.715068
+282: Complex number: real = 854.974467, imaginary = 1538.671080. Double cast = 1760.252831
+283: Polar number: angle = 88.716939, coordinates =  (433, 923). Double cast =  1019.518514
+284: Fraction number: 633/226 . Double cast = 2.800885
+285: Complex number: real = 623.022462, imaginary = 1464.376501. Double cast = 1591.400492
+286: Fraction number: 504/964 . Double cast = 0.522822
+287: Polar number: angle = 99.653873, coordinates =  (-36, 384). Double cast =  385.683808
+288: Polar number: angle = 91.207749, coordinates =  (605, -251). Double cast =  655.000763
+289: Polar number: angle = 111.449107, coordinates =  (-835, 493). Double cast =  969.677266
+290: Complex number: real = 823.886600, imaginary = 1777.362593. Double cast = 1959.032138
+291: Complex number: real = 1921.841668, imaginary = 1450.827927. Double cast = 2407.981950
+292: Polar number: angle = 135.797872, coordinates =  (-435, 940). Double cast =  1035.772658
+293: Complex number: real = 201.815759, imaginary = 1322.193634. Double cast = 1337.507236
+294: Complex number: real = 1049.467209, imaginary = 1340.517596. Double cast = 1702.459646
+295: Complex number: real = 766.985847, imaginary = 1394.458481. Double cast = 1591.471566
+296: Complex number: real = 1243.409278, imaginary = 1022.031255. Double cast = 1609.538605
+297: Fraction number: -98/19 . Double cast = -5.157895
+298: Complex number: real = 1642.408626, imaginary = 934.722293. Double cast = 1889.765028
+299: Complex number: real = 1963.798596, imaginary = 1013.627795. Double cast = 2209.965210
+300: Fraction number: 721/324 . Double cast = 2.225309
+301: Complex number: real = 1524.857925, imaginary = 874.399142. Double cast = 1757.772895
+302: Fraction number: 872/476 . Double cast = 1.831933
+303: Polar number: angle = 22.292495, coordinates =  (-519, -674). Double cast =  850.668561
+304: Polar number: angle = 38.349783, coordinates =  (712, -334). Double cast =  786.447710
+305: Fraction number: -784/266 . Double cast = -2.947368
+306: Complex number: real = 1517.513759, imaginary = 891.608020. Double cast = 1760.060473
+307: Fraction number: -864/767 . Double cast = -1.126467
+308: Fraction number: -761/676 . Double cast = -1.125740
+309: Complex number: real = 82.334365, imaginary = 1005.069367. Double cast = 1008.436106
+310: Fraction number: 478/634 . Double cast = 0.753943
+311: Fraction number: 503/195 . Double cast = 2.579487
+312: Polar number: angle = 136.555453, coordinates =  (-378, -804). Double cast =  888.425574
+313: Complex number: real = 1446.256384, imaginary = 1675.620714. Double cast = 2213.450317
+314: Complex number: real = 1871.171394, imaginary = 529.423845. Double cast = 1944.626440
+315: Polar number: angle = 130.373973, coordinates =  (790, -237). Double cast =  824.784214
+316: Fraction number: -318/989 . Double cast = -0.321537
+317: Complex number: real = 613.685165, imaginary = 225.871871. Double cast = 653.932400
+318: Fraction number: -451/184 . Double cast = -2.451087
+319: Complex number: real = 942.992179, imaginary = 747.698705. Double cast = 1203.448213
+320: Fraction number: 34/723 . Double cast = 0.047026
+321: Fraction number: 428/320 . Double cast = 1.337500
+322: Fraction number: -454/775 . Double cast = -0.585806
+323: Fraction number: 582/707 . Double cast = 0.823197
+324: Fraction number: -689/420 . Double cast = -1.640476
+325: Fraction number: 319/645 . Double cast = 0.494574
+326: Fraction number: 69/463 . Double cast = 0.149028
+327: Complex number: real = 1247.925623, imaginary = 1414.466668. Double cast = 1886.275249
+328: Fraction number: -435/412 . Double cast = -1.055825
+329: Polar number: angle = 31.384766, coordinates =  (123, -831). Double cast =  840.053570
+330: Complex number: real = 124.683365, imaginary = 1568.168483. Double cast = 1573.117393
+331: Complex number: real = 1934.165764, imaginary = 1913.176306. Double cast = 2720.522153
+332: Polar number: angle = 101.668274, coordinates =  (163, 207). Double cast =  263.472959
+333: Fraction number: 670/892 . Double cast = 0.751121
+334: Fraction number: -598/958 . Double cast = -0.624217
+335: Complex number: real = 964.941981, imaginary = 1826.660927. Double cast = 2065.866203
+336: Complex number: real = 1820.016075, imaginary = 1825.109083. Double cast = 2577.495233
+337: Polar number: angle = 190.963839, coordinates =  (678, 272). Double cast =  730.525838
+338: Fraction number: -990/808 . Double cast = -1.225248
+339: Polar number: angle = 170.172576, coordinates =  (-255, -4). Double cast =  255.031371
+340: Polar number: angle = 167.548907, coordinates =  (651, -935). Double cast =  1139.309440
+341: Fraction number: 103/97 . Double cast = 1.061856
+342: Complex number: real = 1734.967038, imaginary = 1236.301390. Double cast = 2130.387699
+343: Complex number: real = 1613.843532, imaginary = 812.733911. Double cast = 1806.938670
+344: Complex number: real = 284.708479, imaginary = 445.526300. Double cast = 528.727342
+345: Fraction number: -520/113 . Double cast = -4.601770
+346: Complex number: real = 1765.307859, imaginary = 1177.756626. Double cast = 2122.126883
+347: Polar number: angle = 137.327313, coordinates =  (-914, 589). Double cast =  1087.344012
+348: Complex number: real = 1908.162428, imaginary = 1459.409058. Double cast = 2402.281967
+349: Fraction number: 46/923 . Double cast = 0.049837
+350: Fraction number: 454/882 . Double cast = 0.514739
+351: Fraction number: 766/326 . Double cast = 2.349693
+352: Fraction number: 625/946 . Double cast = 0.660677
+353: Fraction number: -208/481 . Double cast = -0.432432
+354: Polar number: angle = 32.491122, coordinates =  (937, 563). Double cast =  1093.132197
+355: Fraction number: 978/993 . Double cast = 0.984894
+356: Polar number: angle = 170.100870, coordinates =  (-141, -520). Double cast =  538.777319
+357: Complex number: real = 40.985489, imaginary = 477.041885. Double cast = 478.799301
+358: Fraction number: 674/782 . Double cast = 0.861893
+359: Complex number: real = 320.437511, imaginary = 929.282594. Double cast = 982.978299
+360: Fraction number: -527/33 . Double cast = -15.969697
+361: Complex number: real = 765.757833, imaginary = 477.853380. Double cast = 902.623350
+362: Fraction number: -195/611 . Double cast = -0.319149
+363: Fraction number: -944/617 . Double cast = -1.529984
+364: Complex number: real = 422.766313, imaginary = 136.641665. Double cast = 444.299787
+365: Polar number: angle = 67.181880, coordinates =  (-569, 983). Double cast =  1135.803680
+366: Fraction number: 863/503 . Double cast = 1.715706
+367: Complex number: real = 266.544049, imaginary = 734.054810. Double cast = 780.949546
+368: Complex number: real = 1092.765209, imaginary = 302.032339. Double cast = 1133.736890
+369: Fraction number: 899/11 . Double cast = 81.727273
+370: Polar number: angle = 161.596947, coordinates =  (-591, -658). Double cast =  884.446154
+371: Polar number: angle = 66.771090, coordinates =  (727, 362). Double cast =  812.140998
+372: Fraction number: 333/551 . Double cast = 0.604356
+373: Complex number: real = 306.687318, imaginary = 393.944647. Double cast = 499.248932
+374: Fraction number: 397/585 . Double cast = 0.678632
+375: Polar number: angle = 114.481877, coordinates =  (984, 670). Double cast =  1190.443615
+376: Fraction number: -384/265 . Double cast = -1.449057
+377: Complex number: real = 646.372777, imaginary = 1611.806702. Double cast = 1736.582451
+378: Polar number: angle = 137.335606, coordinates =  (69, 93). Double cast =  115.801554
+379: Fraction number: 610/880 . Double cast = 0.693182
+380: Polar number: angle = 52.541796, coordinates =  (1000, 528). Double cast =  1130.833321
+381: Polar number: angle = 47.453228, coordinates =  (-939, -287). Double cast =  981.880848
+382: Polar number: angle = 31.661177, coordinates =  (-284, 588). Double cast =  652.993109
+383: Complex number: real = 1301.688401, imaginary = 1361.778182. Double cast = 1883.834523
+384: Fraction number: -99/734 . Double cast = -0.134877
+385: Fraction number: -939/381 . Double cast = -2.464567
+386: Polar number: angle = 9.602006, coordinates =  (-814, -293). Double cast =  865.127158
+387: Complex number: real = 401.556517, imaginary = 594.481430. Double cast = 717.395154
+388: Fraction number: -27/939 . Double cast = -0.028754
+389: Complex number: real = 324.589636, imaginary = 1754.282762. Double cast = 1784.058979
+390: Fraction number: -213/342 . Double cast = -0.622807
+391: Fraction number: -193/21 . Double cast = -9.190476
+392: Complex number: real = 485.808310, imaginary = 275.191671. Double cast = 558.336968
+393: Fraction number: 202/58 . Double cast = 3.482759
+394: Fraction number: -441/944 . Double cast = -0.467161
+395: Polar number: angle = 6.132815, coordinates =  (622, 906). Double cast =  1098.963148
+396: Complex number: real = 900.892149, imaginary = 560.439150. Double cast = 1060.989494
+397: Fraction number: -884/460 . Double cast = -1.921739
+398: Complex number: real = 1892.143244, imaginary = 1225.499835. Double cast = 2254.341567
+399: Polar number: angle = 21.217063, coordinates =  (-537, 943). Double cast =  1085.181091
+400: Polar number: angle = 168.164685, coordinates =  (-80, 303). Double cast =  313.383152
+401: Polar number: angle = 138.964197, coordinates =  (330, -518). Double cast =  614.185640
+402: Fraction number: 741/802 . Double cast = 0.923940
+403: Fraction number: -190/949 . Double cast = -0.200211
+404: Polar number: angle = 37.915687, coordinates =  (19, 645). Double cast =  645.279784
+405: Complex number: real = 443.587660, imaginary = 759.408225. Double cast = 879.471924
+406: Polar number: angle = 32.130099, coordinates =  (-666, -970). Double cast =  1176.629083
+407: Fraction number: 843/687 . Double cast = 1.227074
+408: Complex number: real = 331.306062, imaginary = 70.984922. Double cast = 338.825273
+409: Complex number: real = 513.521573, imaginary = 847.807740. Double cast = 991.202487
+410: Complex number: real = 376.204153, imaginary = 1907.163937. Double cast = 1943.914567
+411: Polar number: angle = 191.793055, coordinates =  (659, 932). Double cast =  1141.448641
+412: Polar number: angle = 94.247026, coordinates =  (-873, 976). Double cast =  1309.467449
+413: Complex number: real = 1963.332695, imaginary = 642.780210. Double cast = 2065.875521
+414: Polar number: angle = 72.822799, coordinates =  (597, -828). Double cast =  1020.780584
+415: Complex number: real = 232.768394, imaginary = 1031.585257. Double cast = 1057.520339
+416: Complex number: real = 894.477759, imaginary = 1335.813622. Double cast = 1607.634441
+417: Fraction number: -94/916 . Double cast = -0.102620
+418: Fraction number: -411/851 . Double cast = -0.482961
+419: Fraction number: -54/84 . Double cast = -0.642857
+420: Polar number: angle = 24.562306, coordinates =  (955, 682). Double cast =  1173.519919
+421: Polar number: angle = 131.981988, coordinates =  (744, -602). Double cast =  957.047543
+422: Fraction number: 450/947 . Double cast = 0.475185
+423: Polar number: angle = 35.781356, coordinates =  (407, -673). Double cast =  786.497298
+424: Polar number: angle = 118.473190, coordinates =  (-576, -521). Double cast =  776.670458
+425: Polar number: angle = 131.752406, coordinates =  (-362, 699). Double cast =  787.175330
+426: Complex number: real = 945.506390, imaginary = 777.835066. Double cast = 1224.340526
+427: Polar number: angle = 138.918436, coordinates =  (150, -615). Double cast =  633.028435
+428: Polar number: angle = 20.770618, coordinates =  (-631, 210). Double cast =  665.027067
+429: Fraction number: -955/19 . Double cast = -50.263158
+430: Fraction number: -698/393 . Double cast = -1.776081
+431: Fraction number: 966/357 . Double cast = 2.705882
+432: Polar number: angle = 36.077255, coordinates =  (631, 774). Double cast =  998.617544
+433: Fraction number: 159/426 . Double cast = 0.373239
+434: Polar number: angle = 91.377179, coordinates =  (-641, -360). Double cast =  735.174129
+435: Polar number: angle = 155.094000, coordinates =  (4, 718). Double cast =  718.011142
+436: Fraction number: -600/547 . Double cast = -1.096892
+437: Polar number: angle = 11.998299, coordinates =  (572, 879). Double cast =  1048.725417
+438: Complex number: real = 283.362057, imaginary = 807.203926. Double cast = 855.495315
+439: Complex number: real = 1454.899207, imaginary = 1934.817065. Double cast = 2420.795071
+440: Polar number: angle = 89.724963, coordinates =  (-13, 870). Double cast =  870.097121
+441: Complex number: real = 1694.667519, imaginary = 457.739097. Double cast = 1755.398268
+442: Complex number: real = 935.130178, imaginary = 836.677832. Double cast = 1254.790120
+443: Fraction number: -274/13 . Double cast = -21.076923
+444: Fraction number: -839/517 . Double cast = -1.622824
+445: Complex number: real = 1071.690966, imaginary = 470.879646. Double cast = 1170.576426
+446: Complex number: real = 882.732599, imaginary = 447.958215. Double cast = 989.890601
+447: Complex number: real = 1347.195229, imaginary = 39.020458. Double cast = 1347.760209
+448: Polar number: angle = 170.218624, coordinates =  (748, -890). Double cast =  1162.585051
+449: Fraction number: -107/227 . Double cast = -0.471366
+450: Fraction number: -348/982 . Double cast = -0.354379
+451: Complex number: real = 1067.017517, imaginary = 1952.538175. Double cast = 2225.068922
+452: Complex number: real = 1291.435772, imaginary = 1217.242478. Double cast = 1774.679015
+453: Polar number: angle = 89.375769, coordinates =  (542, 839). Double cast =  998.841829
+454: Polar number: angle = 110.048265, coordinates =  (-642, 501). Double cast =  814.349434
+455: Polar number: angle = 25.368350, coordinates =  (419, -874). Double cast =  969.245583
+456: Polar number: angle = 190.703332, coordinates =  (-295, -433). Double cast =  523.940836
+457: Complex number: real = 1891.554443, imaginary = 1032.350968. Double cast = 2154.930796
+458: Polar number: angle = 14.235327, coordinates =  (-691, 77). Double cast =  695.276923
+459: Fraction number: 935/278 . Double cast = 3.363309
+460: Complex number: real = 33.038660, imaginary = 1191.487712. Double cast = 1191.945687
+461: Polar number: angle = 160.729884, coordinates =  (-831, 911). Double cast =  1233.078262
+462: Fraction number: -127/578 . Double cast = -0.219723
+463: Polar number: angle = 97.022169, coordinates =  (-947, 275). Double cast =  986.120682
+464: Fraction number: 522/178 . Double cast = 2.932584
+465: Polar number: angle = 158.641647, coordinates =  (191, 858). Double cast =  879.002275
+466: Complex number: real = 1375.368609, imaginary = 345.034971. Double cast = 1417.987285
+467: Polar number: angle = 87.275348, coordinates =  (117, -444). Double cast =  459.156836
+468: Complex number: real = 202.967253, imaginary = 1126.697825. Double cast = 1144.833479
+469: Complex number: real = 1570.516009, imaginary = 551.696418. Double cast = 1664.598892
+470: Polar number: angle = 108.458841, coordinates =  (-703, 494). Double cast =  859.211848
+471: Polar number: angle = 156.440638, coordinates =  (-850, 427). Double cast =  951.225000
+472: Fraction number: 280/848 . Double cast = 0.330189
+473: Fraction number: 331/550 . Double cast = 0.601818
+474: Complex number: real = 1210.474775, imaginary = 341.585182. Double cast = 1257.747835
+475: Fraction number: -809/960 . Double cast = -0.842708
+476: Complex number: real = 523.032957, imaginary = 231.757572. Double cast = 572.079580
+477: Complex number: real = 400.463210, imaginary = 676.693285. Double cast = 786.310742
+478: Complex number: real = 1476.171729, imaginary = 285.947031. Double cast = 1503.611877
+479: Fraction number: -653/918 . Double cast = -0.711329
+480: Complex number: real = 155.835034, imaginary = 1489.441389. Double cast = 1497.571437
+481: Polar number: angle = 95.383153, coordinates =  (-392, 966). Double cast =  1042.506595
+482: Fraction number: 468/564 . Double cast = 0.829787
+483: Complex number: real = 1198.502298, imaginary = 739.415590. Double cast = 1408.241163
+484: Fraction number: -111/54 . Double cast = -2.055556
+485: Complex number: real = 338.632031, imaginary = 1876.510782. Double cast = 1906.820486
+486: Polar number: angle = 24.720948, coordinates =  (697, 374). Double cast =  791.002528
+487: Complex number: real = 1403.630165, imaginary = 1873.488743. Double cast = 2340.969395
+488: Polar number: angle = 174.700235, coordinates =  (-221, 272). Double cast =  350.463978
+489: Polar number: angle = 84.449827, coordinates =  (731, -139). Double cast =  744.098112
+490: Polar number: angle = 68.338934, coordinates =  (257, -834). Double cast =  872.699834
+491: Complex number: real = 324.357162, imaginary = 1441.423101. Double cast = 1477.466793
+492: Complex number: real = 1391.138688, imaginary = 1266.856061. Double cast = 1881.539563
+493: Complex number: real = 79.974908, imaginary = 1822.735949. Double cast = 1824.489607
+494: Polar number: angle = 172.782175, coordinates =  (662, 827). Double cast =  1059.326673
+495: Complex number: real = 1874.547190, imaginary = 1335.029054. Double cast = 2301.353894
+496: Polar number: angle = 57.320619, coordinates =  (-309, 911). Double cast =  961.978170
+497: Fraction number: -45/174 . Double cast = -0.258621
+498: Complex number: real = 1645.316178, imaginary = 1598.104098. Double cast = 2293.687431
+499: Polar number: angle = 75.211794, coordinates =  (-279, 169). Double cast =  326.193194
+500: Complex number: real = 1020.376962, imaginary = 479.803795. Double cast = 1127.555243
+501: Complex number: real = 902.797826, imaginary = 1439.980936. Double cast = 1699.584953
+502: Fraction number: -467/597 . Double cast = -0.782245
+503: Complex number: real = 1713.472729, imaginary = 1363.870751. Double cast = 2190.007356
+504: Polar number: angle = 190.071981, coordinates =  (430, 173). Double cast =  463.496494
+505: Polar number: angle = 103.682644, coordinates =  (661, 554). Double cast =  862.459854
+506: Polar number: angle = 31.317012, coordinates =  (-578, -308). Double cast =  654.941219
+507: Polar number: angle = 155.221213, coordinates =  (698, -31). Double cast =  698.688056
+508: Fraction number: 925/476 . Double cast = 1.943277
+509: Fraction number: 742/267 . Double cast = 2.779026
+510: Polar number: angle = 84.024292, coordinates =  (344, -597). Double cast =  689.017416
+511: Polar number: angle = 98.587070, coordinates =  (-841, -579). Double cast =  1021.039666
+512: Complex number: real = 525.191843, imaginary = 767.225770. Double cast = 929.764408
+513: Fraction number: -910/290 . Double cast = -3.137931
+514: Complex number: real = 1917.183057, imaginary = 836.893645. Double cast = 2091.884760
+515: Complex number: real = 409.139070, imaginary = 935.183774. Double cast = 1020.766119
+516: Polar number: angle = 162.043158, coordinates =  (899, 804). Double cast =  1206.075039
+517: Fraction number: 91/439 . Double cast = 0.207289
+518: Polar number: angle = 132.289279, coordinates =  (-519, -384). Double cast =  645.613662
+519: Polar number: angle = 106.793832, coordinates =  (303, -588). Double cast =  661.477891
+520: Fraction number: -473/589 . Double cast = -0.803056
+521: Fraction number: 237/806 . Double cast = 0.294045
+522: Fraction number: -634/47 . Double cast = -13.489362
+523: Fraction number: -20/851 . Double cast = -0.023502
+524: Fraction number: 423/343 . Double cast = 1.233236
+525: Polar number: angle = 147.527021, coordinates =  (807, 440). Double cast =  919.156679
+526: Fraction number: -332/268 . Double cast = -1.238806
+527: Fraction number: -200/391 . Double cast = -0.511509
+528: Complex number: real = 693.195916, imaginary = 591.801325. Double cast = 911.454544
+529: Fraction number: 39/976 . Double cast = 0.039959
+530: Fraction number: -925/987 . Double cast = -0.937183
+531: Fraction number: -831/538 . Double cast = -1.544610
+532: Polar number: angle = 96.659696, coordinates =  (487, -24). Double cast =  487.591017
+533: Fraction number: 172/152 . Double cast = 1.131579
+534: Complex number: real = 467.454629, imaginary = 151.958915. Double cast = 491.533663
+535: Complex number: real = 649.685043, imaginary = 111.906563. Double cast = 659.252405
+536: Complex number: real = 881.743142, imaginary = 251.345890. Double cast = 916.867343
+537: Fraction number: 710/54 . Double cast = 13.148148
+538: Complex number: real = 814.104408, imaginary = 87.794239. Double cast = 818.824655
+539: Fraction number: 932/564 . Double cast = 1.652482
+540: Complex number: real = 1466.096866, imaginary = 563.121003. Double cast = 1570.523889
+541: Polar number: angle = 17.088807, coordinates =  (627, -605). Double cast =  871.294439
+542: Polar number: angle = 47.995334, coordinates =  (-911, 120). Double cast =  918.869414
+543: Fraction number: -473/693 . Double cast = -0.682540
+544: Polar number: angle = 57.982881, coordinates =  (322, -502). Double cast =  596.395842
+545: Polar number: angle = 185.578786, coordinates =  (292, 829). Double cast =  878.922636
+546: Complex number: real = 1750.879341, imaginary = 1150.171586. Double cast = 2094.868288
+547: Complex number: real = 631.956571, imaginary = 1453.597675. Double cast = 1585.028488
+548: Fraction number: -136/573 . Double cast = -0.237347
+549: Complex number: real = 1524.661178, imaginary = 516.673604. Double cast = 1609.827109
+550: Polar number: angle = 61.569928, coordinates =  (-35, 834). Double cast =  834.734089
+551: Fraction number: -117/217 . Double cast = -0.539171
+552: Complex number: real = 121.097164, imaginary = 395.343297. Double cast = 413.474117
+553: Complex number: real = 713.413157, imaginary = 144.265916. Double cast = 727.853685
+554: Complex number: real = 1590.800032, imaginary = 1649.586755. Double cast = 2291.676505
+555: Polar number: angle = 108.680462, coordinates =  (-724, -787). Double cast =  1069.366635
+556: Complex number: real = 1476.383457, imaginary = 1483.194450. Double cast = 2092.743149
+557: Polar number: angle = 174.572303, coordinates =  (242, 520). Double cast =  573.553834
+558: Complex number: real = 655.117474, imaginary = 1938.051176. Double cast = 2045.781334
+559: Complex number: real = 242.164800, imaginary = 1230.345646. Double cast = 1253.951435
+560: Polar number: angle = 200.223189, coordinates =  (746, 70). Double cast =  749.276985
+561: Complex number: real = 478.284531, imaginary = 579.510689. Double cast = 751.391197
+562: Fraction number: -442/786 . Double cast = -0.562341
+563: Complex number: real = 234.308516, imaginary = 233.664316. Double cast = 330.907077
+564: Fraction number: -331/336 . Double cast = -0.985119
+565: Complex number: real = 479.037492, imaginary = 529.185770. Double cast = 713.802842
+566: Fraction number: -250/384 . Double cast = -0.651042
+567: Complex number: real = 333.478682, imaginary = 730.665240. Double cast = 803.168553
+568: Fraction number: 31/943 . Double cast = 0.032874
+569: Complex number: real = 799.882860, imaginary = 435.714594. Double cast = 910.856629
+570: Complex number: real = 126.876697, imaginary = 1736.054297. Double cast = 1740.684411
+571: Polar number: angle = 38.933295, coordinates =  (949, 917). Double cast =  1319.655258
+572: Complex number: real = 1868.175580, imaginary = 692.162713. Double cast = 1992.277395
+573: Fraction number: -525/708 . Double cast = -0.741525
+574: Complex number: real = 643.938363, imaginary = 686.777723. Double cast = 941.445833
+575: Complex number: real = 119.496468, imaginary = 1157.497789. Double cast = 1163.649663
+576: Fraction number: 416/960 . Double cast = 0.433333
+577: Polar number: angle = 41.935549, coordinates =  (-297, -503). Double cast =  584.138682
+578: Polar number: angle = 96.420443, coordinates =  (700, 671). Double cast =  969.660250
+579: Fraction number: -551/330 . Double cast = -1.669697
+580: Fraction number: -587/360 . Double cast = -1.630556
+581: Fraction number: -13/777 . Double cast = -0.016731
+582: Fraction number: -34/19 . Double cast = -1.789474
+583: Polar number: angle = 71.059507, coordinates =  (-342, -955). Double cast =  1014.390950
+584: Polar number: angle = 33.752224, coordinates =  (598, -30). Double cast =  598.752035
+585: Complex number: real = 706.493485, imaginary = 1960.767691. Double cast = 2084.164816
+586: Polar number: angle = 145.024770, coordinates =  (72, -271). Double cast =  280.401498
+587: Polar number: angle = 85.154770, coordinates =  (317, -137). Double cast =  345.337516
+588: Complex number: real = 338.185374, imaginary = 1117.817460. Double cast = 1167.854966
+589: Complex number: real = 336.771369, imaginary = 485.434124. Double cast = 590.814052
+590: Complex number: real = 671.910829, imaginary = 1454.510776. Double cast = 1602.206529
+591: Fraction number: 721/510 . Double cast = 1.413725
+592: Polar number: angle = 102.503177, coordinates =  (-535, 47). Double cast =  537.060518
+593: Fraction number: -54/786 . Double cast = -0.068702
+594: Polar number: angle = 142.047186, coordinates =  (-646, 762). Double cast =  998.979479
+595: Polar number: angle = 104.939210, coordinates =  (650, -262). Double cast =  700.816666
+596: Complex number: real = 713.960460, imaginary = 733.659514. Double cast = 1023.716670
+597: Complex number: real = 1788.948445, imaginary = 960.504574. Double cast = 2030.493924
+598: Fraction number: 23/798 . Double cast = 0.028822
+599: Polar number: angle = 14.803778, coordinates =  (-924, 413). Double cast =  1012.099303
+600: Complex number: real = 1576.641703, imaginary = 1446.816211. Double cast = 2139.877616
+601: Polar number: angle = 199.523720, coordinates =  (501, 1000). Double cast =  1118.481560
+602: Fraction number: 582/378 . Double cast = 1.539683
+603: Polar number: angle = 166.599330, coordinates =  (-646, -789). Double cast =  1019.723982
+604: Fraction number: 98/476 . Double cast = 0.205882
+605: Complex number: real = 1265.813962, imaginary = 762.903943. Double cast = 1477.940260
+606: Polar number: angle = 19.480752, coordinates =  (-823, 779). Double cast =  1133.212248
+607: Fraction number: -307/430 . Double cast = -0.713953
+608: Fraction number: -841/287 . Double cast = -2.930314
+609: Polar number: angle = 190.105312, coordinates =  (334, -104). Double cast =  349.817095
+610: Polar number: angle = 12.314811, coordinates =  (-211, -790). Double cast =  817.692485
+611: Complex number: real = 1716.403955, imaginary = 1131.469697. Double cast = 2055.788465
+612: Polar number: angle = 112.645802, coordinates =  (402, -967). Double cast =  1047.231111
+613: Polar number: angle = 2.691272, coordinates =  (-118, -621). Double cast =  632.111541
+614: Polar number: angle = 3.353631, coordinates =  (-872, 482). Double cast =  996.347329
+615: Complex number: real = 1525.277095, imaginary = 186.567483. Double cast = 1536.644930
+616: Polar number: angle = 82.719747, coordinates =  (-844, 283). Double cast =  890.182566
+617: Complex number: real = 221.155245, imaginary = 398.118353. Double cast = 455.420537
+618: Complex number: real = 1568.061241, imaginary = 1088.619122. Double cast = 1908.902210
+619: Complex number: real = 975.953731, imaginary = 969.492780. Double cast = 1375.646006
+620: Fraction number: 716/161 . Double cast = 4.447205
+621: Complex number: real = 743.304216, imaginary = 711.012010. Double cast = 1028.610342
+622: Polar number: angle = 139.907256, coordinates =  (666, -832). Double cast =  1065.729797
+623: Fraction number: -144/778 . Double cast = -0.185090
+624: Polar number: angle = 143.016744, coordinates =  (628, 943). Double cast =  1132.975287
+625: Complex number: real = 1381.826259, imaginary = 1814.935912. Double cast = 2281.104157
+626: Fraction number: 893/23 . Double cast = 38.826087
+627: Complex number: real = 206.133405, imaginary = 1980.637065. Double cast = 1991.334769
+628: Complex number: real = 955.627707, imaginary = 1096.866559. Double cast = 1454.764779
+629: Fraction number: -651/675 . Double cast = -0.964444
+630: Fraction number: -513/692 . Double cast = -0.741329
+631: Complex number: real = 375.962295, imaginary = 733.729671. Double cast = 824.443374
+632: Complex number: real = 82.187135, imaginary = 1039.771319. Double cast = 1043.014439
+633: Complex number: real = 1162.334386, imaginary = 886.480262. Double cast = 1461.803160
+634: Complex number: real = 1007.485026, imaginary = 675.784384. Double cast = 1213.140804
+635: Complex number: real = 11.365970, imaginary = 39.362630. Double cast = 40.970745
+636: Fraction number: 794/912 . Double cast = 0.870614
+637: Complex number: real = 1822.135349, imaginary = 1242.346350. Double cast = 2205.357496
+638: Polar number: angle = 88.194652, coordinates =  (-739, 848). Double cast =  1124.822208
+639: Polar number: angle = 53.183201, coordinates =  (380, 695). Double cast =  792.101635
+640: Complex number: real = 805.527420, imaginary = 183.364629. Double cast = 826.133774
+641: Polar number: angle = 77.612926, coordinates =  (-843, 394). Double cast =  930.529419
+642: Polar number: angle = 156.932875, coordinates =  (255, 138). Double cast =  289.946547
+643: Complex number: real = 1763.707452, imaginary = 744.958700. Double cast = 1914.582837
+644: Complex number: real = 512.936504, imaginary = 813.918602. Double cast = 962.064108
+645: Fraction number: 877/294 . Double cast = 2.982993
+646: Complex number: real = 1246.284482, imaginary = 774.543716. Double cast = 1467.359185
+647: Polar number: angle = 122.139884, coordinates =  (281, 982). Double cast =  1021.413237
+648: Complex number: real = 1415.151077, imaginary = 481.610731. Double cast = 1494.858344
+649: Complex number: real = 608.594898, imaginary = 1709.689994. Double cast = 1814.780324
+650: Fraction number: 752/633 . Double cast = 1.187994
+651: Polar number: angle = 48.630569, coordinates =  (475, 540). Double cast =  719.183565
+652: Polar number: angle = 182.128038, coordinates =  (-466, -349). Double cast =  582.200137
+653: Complex number: real = 441.684658, imaginary = 1198.600775. Double cast = 1277.391544
+654: Fraction number: 80/596 . Double cast = 0.134228
+655: Fraction number: -248/314 . Double cast = -0.789809
+656: Polar number: angle = 0.683257, coordinates =  (-119, 195). Double cast =  228.442553
+657: Polar number: angle = 59.434714, coordinates =  (998, -848). Double cast =  1309.621319
+658: Polar number: angle = 184.219152, coordinates =  (202, -337). Double cast =  392.903296
+659: Complex number: real = 1938.317195, imaginary = 848.368418. Double cast = 2115.845581
+660: Complex number: real = 942.861796, imaginary = 1421.691230. Double cast = 1705.929166
+661: Fraction number: 666/14 . Double cast = 47.571429
+662: Fraction number: -928/199 . Double cast = -4.663317
+663: Fraction number: 886/989 . Double cast = 0.895854
+664: Polar number: angle = 154.610520, coordinates =  (-708, -613). Double cast =  936.500400
+665: Fraction number: 381/639 . Double cast = 0.596244
+666: Polar number: angle = 78.642054, coordinates =  (981, 755). Double cast =  1237.895795
+667: Complex number: real = 1606.248698, imaginary = 1703.449308. Double cast = 2341.318950
+668: Polar number: angle = 94.485735, coordinates =  (-452, -475). Double cast =  655.689713
+669: Fraction number: -379/686 . Double cast = -0.552478
+670: Fraction number: -564/46 . Double cast = -12.260870
+671: Polar number: angle = 184.619307, coordinates =  (-689, -855). Double cast =  1098.064661
+672: Complex number: real = 870.420896, imaginary = 16.234315. Double cast = 870.572277
+673: Fraction number: 303/80 . Double cast = 3.787500
+674: Fraction number: -200/891 . Double cast = -0.224467
+675: Complex number: real = 1416.310742, imaginary = 1480.389645. Double cast = 2048.777591
+676: Complex number: real = 913.422600, imaginary = 1704.566197. Double cast = 1933.878684
+677: Fraction number: 7/328 . Double cast = 0.021341
+678: Complex number: real = 1793.475158, imaginary = 1745.231401. Double cast = 2502.475930
+679: Polar number: angle = 94.431069, coordinates =  (-233, 261). Double cast =  349.871405
+680: Complex number: real = 133.669812, imaginary = 690.196960. Double cast = 703.021665
+681: Fraction number: -809/528 . Double cast = -1.532197
+682: Fraction number: -378/9 . Double cast = -42.000000
+683: Polar number: angle = 126.332748, coordinates =  (-138, -753). Double cast =  765.540985
+684: Polar number: angle = 124.028123, coordinates =  (637, -812). Double cast =  1032.043119
+685: Polar number: angle = 104.248455, coordinates =  (492, 484). Double cast =  690.159402
+686: Fraction number: 11/789 . Double cast = 0.013942
+687: Polar number: angle = 106.143383, coordinates =  (640, -339). Double cast =  724.238220
+688: Complex number: real = 1522.199563, imaginary = 1852.487855. Double cast = 2397.666108
+689: Fraction number: 296/441 . Double cast = 0.671202
+690: Complex number: real = 1960.900591, imaginary = 1180.174854. Double cast = 2288.655460
+691: Polar number: angle = 176.814099, coordinates =  (681, -183). Double cast =  705.159556
+692: Polar number: angle = 46.532563, coordinates =  (276, 620). Double cast =  678.657498
+693: Fraction number: 546/588 . Double cast = 0.928571
+694: Polar number: angle = 145.406977, coordinates =  (372, -30). Double cast =  373.207717
+695: Polar number: angle = 144.110012, coordinates =  (354, -591). Double cast =  688.910009
+696: Complex number: real = 870.361600, imaginary = 1549.820726. Double cast = 1777.490815
+697: Fraction number: -395/185 . Double cast = -2.135135
+698: Fraction number: -599/433 . Double cast = -1.383372
+699: Complex number: real = 1105.225867, imaginary = 436.913491. Double cast = 1188.451773
+700: Polar number: angle = 62.607855, coordinates =  (29, 675). Double cast =  675.622676
+701: Polar number: angle = 61.183592, coordinates =  (-834, 155). Double cast =  848.281203
+702: Complex number: real = 433.245704, imaginary = 1402.831407. Double cast = 1468.209044
+703: Fraction number: -896/371 . Double cast = -2.415094
+704: Complex number: real = 286.334894, imaginary = 443.965072. Double cast = 528.292208
+705: Polar number: angle = 65.640747, coordinates =  (-356, 499). Double cast =  612.973898
+706: Fraction number: 617/225 . Double cast = 2.742222
+707: Complex number: real = 50.442215, imaginary = 397.927888. Double cast = 401.112230
+708: Fraction number: 618/965 . Double cast = 0.640415
+709: Polar number: angle = 176.094068, coordinates =  (543, -286). Double cast =  613.714103
+710: Polar number: angle = 106.439123, coordinates =  (-449, -406). Double cast =  605.340400
+711: Polar number: angle = 7.312989, coordinates =  (607, -510). Double cast =  792.810822
+712: Polar number: angle = 108.294970, coordinates =  (310, 43). Double cast =  312.968049
+713: Complex number: real = 1817.152191, imaginary = 79.987988. Double cast = 1818.911807
+714: Fraction number: -48/988 . Double cast = -0.048583
+715: Complex number: real = 1002.619807, imaginary = 593.804005. Double cast = 1165.268069
+716: Polar number: angle = 57.757851, coordinates =  (-476, -551). Double cast =  728.132543
+717: Fraction number: 689/24 . Double cast = 28.708333
+718: Polar number: angle = 98.231068, coordinates =  (445, -797). Double cast =  912.816520
+719: Complex number: real = 653.555733, imaginary = 57.398937. Double cast = 656.071439
+720: Complex number: real = 919.494740, imaginary = 291.362681. Double cast = 964.553155
+721: Complex number: real = 1108.373159, imaginary = 1173.109921. Double cast = 1613.901467
+722: Polar number: angle = 92.552801, coordinates =  (718, 167). Double cast =  737.165517
+723: Fraction number: 313/994 . Double cast = 0.314889
+724: Fraction number: 747/732 . Double cast = 1.020492
+725: Complex number: real = 1335.120215, imaginary = 1561.750372. Double cast = 2054.655741
+726: Polar number: angle = 108.511728, coordinates =  (-805, -22). Double cast =  805.300565
+727: Complex number: real = 1880.186764, imaginary = 1634.927755. Double cast = 2491.604108
+728: Complex number: real = 1297.494322, imaginary = 1336.080361. Double cast = 1862.418387
+729: Fraction number: 943/136 . Double cast = 6.933824
+730: Fraction number: 614/595 . Double cast = 1.031933
+731: Complex number: real = 234.268303, imaginary = 1753.247241. Double cast = 1768.829422
+732: Fraction number: -350/372 . Double cast = -0.940860
+733: Polar number: angle = 191.074193, coordinates =  (463, 357). Double cast =  584.652033
+734: Fraction number: -641/129 . Double cast = -4.968992
+735: Complex number: real = 1798.574907, imaginary = 1190.169951. Double cast = 2156.704942
+736: Polar number: angle = 145.762322, coordinates =  (96, -76). Double cast =  122.441823
+737: Polar number: angle = 135.962945, coordinates =  (883, 416). Double cast =  976.086574
+738: Fraction number: -956/7 . Double cast = -136.571429
+739: Polar number: angle = 66.010268, coordinates =  (-512, 820). Double cast =  966.718160
+740: Fraction number: 51/4 . Double cast = 12.750000
+741: Complex number: real = 1018.371447, imaginary = 1288.527377. Double cast = 1642.371215
+742: Complex number: real = 89.975788, imaginary = 583.353456. Double cast = 590.251554
+743: Fraction number: 118/776 . Double cast = 0.152062
+744: Fraction number: 212/331 . Double cast = 0.640483
+745: Fraction number: -182/449 . Double cast = -0.405345
+746: Polar number: angle = 164.353425, coordinates =  (-477, 587). Double cast =  756.371602
+747: Fraction number: -348/631 . Double cast = -0.551506
+748: Complex number: real = 1384.485276, imaginary = 1317.142902. Double cast = 1910.932993
+749: Polar number: angle = 156.903034, coordinates =  (918, 842). Double cast =  1245.667692
+750: Polar number: angle = 92.571734, coordinates =  (128, 453). Double cast =  470.736657
+751: Complex number: real = 666.872537, imaginary = 215.706278. Double cast = 700.890989
+752: Polar number: angle = 16.813283, coordinates =  (404, 435). Double cast =  593.667415
+753: Polar number: angle = 86.441705, coordinates =  (498, 730). Double cast =  883.687728
+754: Polar number: angle = 1.741339, coordinates =  (826, -886). Double cast =  1211.310035
+755: Fraction number: -352/904 . Double cast = -0.389381
+756: Complex number: real = 473.684561, imaginary = 1739.287670. Double cast = 1802.636586
+757: Complex number: real = 559.702068, imaginary = 1685.421433. Double cast = 1775.925621
+758: Fraction number: -937/278 . Double cast = -3.370504
+759: Polar number: angle = 184.515464, coordinates =  (-210, 472). Double cast =  516.608169
+760: Polar number: angle = 181.333424, coordinates =  (242, 497). Double cast =  552.786577
+761: Fraction number: 684/715 . Double cast = 0.956643
+762: Complex number: real = 887.428414, imaginary = 338.426834. Double cast = 949.769400
+763: Polar number: angle = 28.484291, coordinates =  (101, 27). Double cast =  104.546640
+764: Polar number: angle = 72.081414, coordinates =  (-313, -821). Double cast =  878.640996
+765: Fraction number: 45/348 . Double cast = 0.129310
+766: Complex number: real = 1100.059654, imaginary = 253.591948. Double cast = 1128.911032
+767: Complex number: real = 1135.798644, imaginary = 1700.052287. Double cast = 2044.557737
+768: Polar number: angle = 172.142941, coordinates =  (274, -259). Double cast =  377.037133
+769: Fraction number: 528/347 . Double cast = 1.521614
+770: Polar number: angle = 193.970521, coordinates =  (-464, 553). Double cast =  721.876028
+771: Fraction number: -295/595 . Double cast = -0.495798
+772: Polar number: angle = 91.416761, coordinates =  (233, -619). Double cast =  661.400030
+773: Complex number: real = 683.926089, imaginary = 738.118925. Double cast = 1006.267580
+774: Fraction number: 407/224 . Double cast = 1.816964
+775: Polar number: angle = 58.176983, coordinates =  (-954, 225). Double cast =  980.173964
+776: Polar number: angle = 40.267695, coordinates =  (-983, -433). Double cast =  1074.140587
+777: Polar number: angle = 60.079426, coordinates =  (-790, 843). Double cast =  1155.313377
+778: Fraction number: -821/627 . Double cast = -1.309410
+779: Complex number: real = 46.136002, imaginary = 1452.798831. Double cast = 1453.531209
+780: Polar number: angle = 177.554308, coordinates =  (-359, 7). Double cast =  359.068239
+781: Polar number: angle = 111.093322, coordinates =  (-928, -902). Double cast =  1294.136005
+782: Complex number: real = 946.791614, imaginary = 1506.621247. Double cast = 1779.416180
+783: Fraction number: -293/27 . Double cast = -10.851852
+784: Polar number: angle = 44.749331, coordinates =  (-310, -232). Double cast =  387.200207
+785: Fraction number: 610/907 . Double cast = 0.672547
+786: Polar number: angle = 11.900852, coordinates =  (-440, -920). Double cast =  1019.803903
+787: Polar number: angle = 17.772741, coordinates =  (418, 704). Double cast =  818.742939
+788: Polar number: angle = 129.820126, coordinates =  (675, 500). Double cast =  840.014881
+789: Fraction number: 91/485 . Double cast = 0.187629
+790: Complex number: real = 1655.234234, imaginary = 1360.569214. Double cast = 2142.649984
+791: Fraction number: 452/130 . Double cast = 3.476923
+792: Polar number: angle = 106.814702, coordinates =  (860, 281). Double cast =  904.743610
+793: Fraction number: -115/541 . Double cast = -0.212569
+794: Fraction number: -626/644 . Double cast = -0.972050
+795: Fraction number: -812/776 . Double cast = -1.046392
+796: Polar number: angle = 40.525929, coordinates =  (468, 43). Double cast =  469.971276
+797: Complex number: real = 208.808140, imaginary = 1460.542611. Double cast = 1475.393357
+798: Complex number: real = 1269.358241, imaginary = 373.509509. Double cast = 1323.170320
+799: Fraction number: 167/396 . Double cast = 0.421717
+800: Complex number: real = 373.431935, imaginary = 214.048202. Double cast = 430.427744
+801: Complex number: real = 599.272454, imaginary = 947.759730. Double cast = 1121.327776
+802: Fraction number: -4/724 . Double cast = -0.005525
+803: Fraction number: -347/60 . Double cast = -5.783333
+804: Complex number: real = 41.803589, imaginary = 645.163418. Double cast = 646.516339
+805: Polar number: angle = 59.087368, coordinates =  (-472, 310). Double cast =  564.698149
+806: Fraction number: 720/600 . Double cast = 1.200000
+807: Polar number: angle = 38.640295, coordinates =  (402, -952). Double cast =  1033.396342
+808: Complex number: real = 1506.363617, imaginary = 131.512893. Double cast = 1512.093577
+809: Fraction number: -905/277 . Double cast = -3.267148
+810: Polar number: angle = 165.535161, coordinates =  (-526, 417). Double cast =  671.241387
+811: Complex number: real = 1124.166366, imaginary = 869.182083. Double cast = 1420.995254
+812: Complex number: real = 457.557788, imaginary = 211.899880. Double cast = 504.242689
+813: Fraction number: 302/720 . Double cast = 0.419444
+814: Fraction number: -520/704 . Double cast = -0.738636
+815: Complex number: real = 1348.118250, imaginary = 37.929240. Double cast = 1348.651713
+816: Polar number: angle = 40.218798, coordinates =  (-910, -246). Double cast =  942.664309
+817: Fraction number: -69/748 . Double cast = -0.092246
+818: Fraction number: -491/191 . Double cast = -2.570681
+819: Polar number: angle = 78.693316, coordinates =  (-523, 107). Double cast =  533.833307
+820: Polar number: angle = 25.465130, coordinates =  (311, 503). Double cast =  591.379743
+821: Complex number: real = 1595.155823, imaginary = 361.664434. Double cast = 1635.641544
+822: Fraction number: -813/147 . Double cast = -5.530612
+823: Complex number: real = 273.542773, imaginary = 577.134761. Double cast = 638.678464
+824: Complex number: real = 1234.730003, imaginary = 884.553519. Double cast = 1518.878898
+825: Polar number: angle = 98.965740, coordinates =  (-181, -985). Double cast =  1001.491887
+826: Fraction number: 627/972 . Double cast = 0.645062
+827: Complex number: real = 1572.084997, imaginary = 1292.260563. Double cast = 2035.040196
+828: Complex number: real = 1373.796292, imaginary = 1872.292202. Double cast = 2322.239079
+829: Fraction number: 200/105 . Double cast = 1.904762
+830: Polar number: angle = 20.034999, coordinates =  (114, -23). Double cast =  116.297033
+831: Polar number: angle = 19.682779, coordinates =  (-125, 293). Double cast =  318.549839
+832: Fraction number: -94/424 . Double cast = -0.221698
+833: Polar number: angle = 5.911083, coordinates =  (61, -281). Double cast =  287.544779
+834: Fraction number: 828/593 . Double cast = 1.396290
+835: Fraction number: 633/145 . Double cast = 4.365517
+836: Complex number: real = 1186.552079, imaginary = 1508.268333. Double cast = 1919.056852
+837: Polar number: angle = 61.301055, coordinates =  (-466, 563). Double cast =  730.838559
+838: Polar number: angle = 111.882720, coordinates =  (28, -479). Double cast =  479.817674
+839: Complex number: real = 1969.778888, imaginary = 841.763561. Double cast = 2142.100549
+840: Polar number: angle = 148.352666, coordinates =  (219, -546). Double cast =  588.283095
+841: Complex number: real = 357.832903, imaginary = 512.541271. Double cast = 625.094345
+842: Complex number: real = 1680.386767, imaginary = 337.216716. Double cast = 1713.888795
+843: Complex number: real = 1796.985848, imaginary = 862.442840. Double cast = 1993.229989
+844: Polar number: angle = 104.860828, coordinates =  (-780, 775). Double cast =  1099.556729
+845: Polar number: angle = 165.996490, coordinates =  (-357, 532). Double cast =  640.681668
+846: Complex number: real = 22.037714, imaginary = 838.669705. Double cast = 838.959197
+847: Fraction number: -643/707 . Double cast = -0.909477
+848: Polar number: angle = 88.303332, coordinates =  (822, -563). Double cast =  996.319728
+849: Polar number: angle = 41.888348, coordinates =  (-682, 82). Double cast =  686.911930
+850: Polar number: angle = 94.497669, coordinates =  (-249, 153). Double cast =  292.249893
+851: Complex number: real = 1971.177601, imaginary = 122.625280. Double cast = 1974.988125
+852: Fraction number: 459/194 . Double cast = 2.365979
+853: Polar number: angle = 171.196260, coordinates =  (-678, 556). Double cast =  876.823814
+854: Polar number: angle = 167.066466, coordinates =  (-493, 716). Double cast =  869.312947
+855: Polar number: angle = 88.519037, coordinates =  (-65, -230). Double cast =  239.008368
+856: Polar number: angle = 86.612816, coordinates =  (-774, 135). Double cast =  785.685051
+857: Fraction number: 819/699 . Double cast = 1.171674
+858: Complex number: real = 1985.705868, imaginary = 593.883197. Double cast = 2072.613096
+859: Complex number: real = 1418.507012, imaginary = 1063.110128. Double cast = 1772.671793
+860: Fraction number: -993/278 . Double cast = -3.571942
+861: Complex number: real = 238.207280, imaginary = 826.986988. Double cast = 860.610357
+862: Complex number: real = 150.851921, imaginary = 212.212160. Double cast = 260.365710
+863: Polar number: angle = 138.087461, coordinates =  (38, 270). Double cast =  272.660962
+864: Fraction number: -118/332 . Double cast = -0.355422
+865: Fraction number: 894/297 . Double cast = 3.010101
+866: Complex number: real = 1831.267938, imaginary = 388.472938. Double cast = 1872.018559
+867: Fraction number: -541/416 . Double cast = -1.300481
+868: Polar number: angle = 71.586391, coordinates =  (-754, -801). Double cast =  1100.053181
+869: Fraction number: 683/827 . Double cast = 0.825877
+870: Polar number: angle = 111.749134, coordinates =  (-400, -415). Double cast =  576.389625
+871: Complex number: real = 1720.283648, imaginary = 294.657069. Double cast = 1745.336248
+872: Polar number: angle = 198.022677, coordinates =  (-664, -615). Double cast =  905.053037
+873: Polar number: angle = 198.296327, coordinates =  (467, 401). Double cast =  615.540413
+874: Polar number: angle = 55.814282, coordinates =  (176, 276). Double cast =  327.340801
+875: Complex number: real = 319.463358, imaginary = 1707.507650. Double cast = 1737.135346
+876: Complex number: real = 1581.476308, imaginary = 253.849083. Double cast = 1601.719910
+877: Fraction number: -65/940 . Double cast = -0.069149
+878: Complex number: real = 278.595741, imaginary = 192.872976. Double cast = 338.844466
+879: Polar number: angle = 102.705012, coordinates =  (812, 261). Double cast =  852.915588
+880: Complex number: real = 1788.178100, imaginary = 1332.606110. Double cast = 2230.116580
+881: Polar number: angle = 69.570242, coordinates =  (81, 574). Double cast =  579.686985
+882: Polar number: angle = 96.709199, coordinates =  (71, 889). Double cast =  891.830701
+883: Fraction number: -913/593 . Double cast = -1.539629
+884: Fraction number: -495/955 . Double cast = -0.518325
+885: Complex number: real = 1615.903280, imaginary = 465.954903. Double cast = 1681.742365
+886: Complex number: real = 349.451010, imaginary = 1201.110995. Double cast = 1250.913119
+887: Complex number: real = 534.174617, imaginary = 1876.807968. Double cast = 1951.345861
+888: Complex number: real = 90.641590, imaginary = 614.574007. Double cast = 621.222270
+889: Polar number: angle = 85.749962, coordinates =  (-612, -584). Double cast =  845.931439
+890: Fraction number: 756/62 . Double cast = 12.193548
+891: Fraction number: -526/636 . Double cast = -0.827044
+892: Polar number: angle = 135.014469, coordinates =  (199, -486). Double cast =  525.163784
+893: Fraction number: -951/628 . Double cast = -1.514331
+894: Polar number: angle = 68.051615, coordinates =  (-400, 456). Double cast =  606.577283
+895: Fraction number: -807/109 . Double cast = -7.403670
+896: Polar number: angle = 184.169709, coordinates =  (-263, -426). Double cast =  500.644585
+897: Complex number: real = 413.858465, imaginary = 734.535034. Double cast = 843.101741
+898: Complex number: real = 332.761727, imaginary = 490.765198. Double cast = 592.942533
+899: Polar number: angle = 21.562408, coordinates =  (-909, 767). Double cast =  1189.356969
+900: Fraction number: 11/460 . Double cast = 0.023913
+901: Complex number: real = 1555.715015, imaginary = 155.277065. Double cast = 1563.444970
+902: Fraction number: 8/211 . Double cast = 0.037915
+903: Fraction number: -419/421 . Double cast = -0.995249
+904: Polar number: angle = 111.705099, coordinates =  (-389, 100). Double cast =  401.647856
+905: Fraction number: 112/191 . Double cast = 0.586387
+906: Fraction number: -260/137 . Double cast = -1.897810
+907: Fraction number: -844/894 . Double cast = -0.944072
+908: Fraction number: 22/573 . Double cast = 0.038394
+909: Complex number: real = 1155.999273, imaginary = 1106.192638. Double cast = 1599.998898
+910: Fraction number: -829/686 . Double cast = -1.208455
+911: Complex number: real = 289.778899, imaginary = 1461.597498. Double cast = 1490.046662
+912: Polar number: angle = 46.515115, coordinates =  (241, 69). Double cast =  250.683067
+913: Complex number: real = 254.931936, imaginary = 1095.218826. Double cast = 1124.497474
+914: Polar number: angle = 79.714071, coordinates =  (937, -544). Double cast =  1083.468966
+915: Polar number: angle = 97.507424, coordinates =  (169, -325). Double cast =  366.314073
+916: Fraction number: 504/563 . Double cast = 0.895204
+917: Fraction number: 429/813 . Double cast = 0.527675
+918: Polar number: angle = 93.709069, coordinates =  (624, 496). Double cast =  797.114797
+919: Fraction number: 664/362 . Double cast = 1.834254
+920: Complex number: real = 868.895055, imaginary = 910.103718. Double cast = 1258.279537
+921: Polar number: angle = 117.398931, coordinates =  (624, -997). Double cast =  1176.173882
+922: Polar number: angle = 106.962926, coordinates =  (-525, 557). Double cast =  765.424065
+923: Complex number: real = 1174.231686, imaginary = 943.758272. Double cast = 1506.485887
+924: Fraction number: 560/937 . Double cast = 0.597652
+925: Fraction number: 664/438 . Double cast = 1.515982
+926: Polar number: angle = 9.126258, coordinates =  (513, 623). Double cast =  807.030359
+927: Complex number: real = 1774.110159, imaginary = 1517.803789. Double cast = 2334.779475
+928: Fraction number: -280/313 . Double cast = -0.894569
+929: Complex number: real = 170.197186, imaginary = 1040.313274. Double cast = 1054.143629
+930: Polar number: angle = 147.047033, coordinates =  (229, -725). Double cast =  760.306517
+931: Complex number: real = 572.766750, imaginary = 1016.408922. Double cast = 1166.682839
+932: Fraction number: -204/477 . Double cast = -0.427673
+933: Complex number: real = 102.000244, imaginary = 1908.292385. Double cast = 1911.016451
+934: Complex number: real = 21.380757, imaginary = 1550.211221. Double cast = 1550.358658
+935: Polar number: angle = 174.428288, coordinates =  (168, 95). Double cast =  193.000000
+936: Fraction number: -131/109 . Double cast = -1.201835
+937: Complex number: real = 1954.458496, imaginary = 1374.302487. Double cast = 2389.270880
+938: Fraction number: 810/520 . Double cast = 1.557692
+939: Polar number: angle = 16.807570, coordinates =  (418, -365). Double cast =  554.931527
+940: Polar number: angle = 93.372230, coordinates =  (668, -812). Double cast =  1051.459937
+941: Polar number: angle = 38.335445, coordinates =  (544, -289). Double cast =  616.000812
+942: Complex number: real = 463.007182, imaginary = 533.086030. Double cast = 706.085240
+943: Polar number: angle = 102.594015, coordinates =  (624, -130). Double cast =  637.397835
+944: Polar number: angle = 179.461016, coordinates =  (31, -617). Double cast =  617.778277
+945: Fraction number: -274/663 . Double cast = -0.413273
+946: Complex number: real = 1055.069755, imaginary = 1430.292880. Double cast = 1777.332246
+947: Complex number: real = 661.939054, imaginary = 1823.024058. Double cast = 1939.479319
+948: Complex number: real = 1913.549707, imaginary = 651.165453. Double cast = 2021.308717
+949: Complex number: real = 1192.327444, imaginary = 1947.681452. Double cast = 2283.661046
+950: Fraction number: 895/602 . Double cast = 1.486711
+951: Complex number: real = 448.658178, imaginary = 1940.464982. Double cast = 1991.657227
+952: Polar number: angle = 17.516422, coordinates =  (917, 460). Double cast =  1025.908865
+953: Fraction number: -830/36 . Double cast = -23.055556
+954: Polar number: angle = 21.059984, coordinates =  (-895, 800). Double cast =  1200.427007
+955: Polar number: angle = 148.596036, coordinates =  (169, 311). Double cast =  353.951974
+956: Fraction number: -137/727 . Double cast = -0.188446
+957: Complex number: real = 1695.075529, imaginary = 1699.764724. Double cast = 2400.516854
+958: Polar number: angle = 111.844506, coordinates =  (-40, 507). Double cast =  508.575461
+959: Complex number: real = 589.258844, imaginary = 675.144520. Double cast = 896.128400
+960: Complex number: real = 1893.417817, imaginary = 706.793528. Double cast = 2021.036398
+961: Complex number: real = 27.403062, imaginary = 1432.082911. Double cast = 1432.345067
+962: Complex number: real = 1947.991243, imaginary = 1814.540020. Double cast = 2662.184322
+963: Fraction number: 384/123 . Double cast = 3.121951
+964: Fraction number: 362/331 . Double cast = 1.093656
+965: Polar number: angle = 81.382244, coordinates =  (-510, 744). Double cast =  902.017738
+966: Polar number: angle = 16.931441, coordinates =  (210, 599). Double cast =  634.744831
+967: Fraction number: -997/714 . Double cast = -1.396359
+968: Polar number: angle = 197.654077, coordinates =  (-343, 711). Double cast =  789.411173
+969: Complex number: real = 748.839055, imaginary = 1331.654699. Double cast = 1527.764434
+970: Complex number: real = 1573.782394, imaginary = 836.097506. Double cast = 1782.091486
+971: Complex number: real = 1861.846983, imaginary = 703.940749. Double cast = 1990.479029
+972: Complex number: real = 1285.947495, imaginary = 572.939440. Double cast = 1407.807005
+973: Fraction number: 392/301 . Double cast = 1.302326
+974: Polar number: angle = 185.726908, coordinates =  (-249, -82). Double cast =  262.154535
+975: Polar number: angle = 64.473728, coordinates =  (42, 98). Double cast =  106.620823
+976: Complex number: real = 703.982149, imaginary = 756.379801. Double cast = 1033.296313
+977: Fraction number: 339/258 . Double cast = 1.313953
+978: Fraction number: -423/873 . Double cast = -0.484536
+979: Complex number: real = 1603.157518, imaginary = 851.281906. Double cast = 1815.156994
+980: Fraction number: 436/538 . Double cast = 0.810409
+981: Polar number: angle = 159.301772, coordinates =  (833, -201). Double cast =  856.907230
+982: Fraction number: -943/392 . Double cast = -2.405612
+983: Complex number: real = 1652.122803, imaginary = 20.214934. Double cast = 1652.246470
+984: Fraction number: 240/726 . Double cast = 0.330579
+985: Fraction number: 553/881 . Double cast = 0.627696
+986: Fraction number: -780/773 . Double cast = -1.009056
+987: Complex number: real = 1247.726590, imaginary = 1333.494483. Double cast = 1826.206226
+988: Polar number: angle = 57.392640, coordinates =  (-198, -156). Double cast =  252.071418
+989: Complex number: real = 191.141128, imaginary = 204.850635. Double cast = 280.176219
+990: Complex number: real = 1327.926625, imaginary = 1966.087020. Double cast = 2372.527617
+991: Complex number: real = 7.531423, imaginary = 1559.716971. Double cast = 1559.735154
+992: Fraction number: 133/138 . Double cast = 0.963768
+993: Complex number: real = 1550.590600, imaginary = 615.222719. Double cast = 1668.181706
+994: Polar number: angle = 9.799586, coordinates =  (148, 717). Double cast =  732.115428
+995: Polar number: angle = 190.790695, coordinates =  (-980, -580). Double cast =  1138.771268
+996: Fraction number: -168/272 . Double cast = -0.617647
+997: Fraction number: -540/105 . Double cast = -5.142857
+998: Complex number: real = 1860.432665, imaginary = 150.906617. Double cast = 1866.542929
+999: Complex number: real = 71.281133, imaginary = 1895.103973. Double cast = 1896.444058
+1000: Polar number: angle = 68.799383, coordinates =  (402, -26). Double cast =  402.839919
+
+
+===================================
+
+Sorted container:
+
+Container contains: 1000 elements.
+1: Fraction number: -956/7 . Double cast = -136.571429
+2: Fraction number: -955/19 . Double cast = -50.263158
+3: Fraction number: -378/9 . Double cast = -42.000000
+4: Fraction number: -830/36 . Double cast = -23.055556
+5: Fraction number: -538/25 . Double cast = -21.520000
+6: Fraction number: -274/13 . Double cast = -21.076923
+7: Fraction number: -527/33 . Double cast = -15.969697
+8: Fraction number: -634/47 . Double cast = -13.489362
+9: Fraction number: -918/74 . Double cast = -12.405405
+10: Fraction number: -564/46 . Double cast = -12.260870
+11: Fraction number: -293/27 . Double cast = -10.851852
+12: Fraction number: -193/21 . Double cast = -9.190476
+13: Fraction number: -807/109 . Double cast = -7.403670
+14: Fraction number: -814/114 . Double cast = -7.140351
+15: Fraction number: -728/113 . Double cast = -6.442478
+16: Fraction number: -347/60 . Double cast = -5.783333
+17: Fraction number: -813/147 . Double cast = -5.530612
+18: Fraction number: -98/19 . Double cast = -5.157895
+19: Fraction number: -540/105 . Double cast = -5.142857
+20: Fraction number: -641/129 . Double cast = -4.968992
+21: Fraction number: -928/199 . Double cast = -4.663317
+22: Fraction number: -520/113 . Double cast = -4.601770
+23: Fraction number: -774/199 . Double cast = -3.889447
+24: Fraction number: -993/278 . Double cast = -3.571942
+25: Fraction number: -575/167 . Double cast = -3.443114
+26: Fraction number: -937/278 . Double cast = -3.370504
+27: Fraction number: -905/277 . Double cast = -3.267148
+28: Fraction number: -939/291 . Double cast = -3.226804
+29: Fraction number: -910/290 . Double cast = -3.137931
+30: Fraction number: -428/138 . Double cast = -3.101449
+31: Fraction number: -778/259 . Double cast = -3.003861
+32: Fraction number: -784/266 . Double cast = -2.947368
+33: Fraction number: -841/287 . Double cast = -2.930314
+34: Fraction number: -904/312 . Double cast = -2.897436
+35: Fraction number: -491/191 . Double cast = -2.570681
+36: Fraction number: -651/255 . Double cast = -2.552941
+37: Fraction number: -939/381 . Double cast = -2.464567
+38: Fraction number: -903/367 . Double cast = -2.460490
+39: Fraction number: -451/184 . Double cast = -2.451087
+40: Fraction number: -896/371 . Double cast = -2.415094
+41: Fraction number: -943/392 . Double cast = -2.405612
+42: Fraction number: -871/393 . Double cast = -2.216285
+43: Fraction number: -395/185 . Double cast = -2.135135
+44: Fraction number: -111/54 . Double cast = -2.055556
+45: Fraction number: -806/394 . Double cast = -2.045685
+46: Fraction number: -469/231 . Double cast = -2.030303
+47: Fraction number: -884/460 . Double cast = -1.921739
+48: Fraction number: -260/137 . Double cast = -1.897810
+49: Fraction number: -854/466 . Double cast = -1.832618
+50: Fraction number: -897/491 . Double cast = -1.826884
+51: Fraction number: -691/386 . Double cast = -1.790155
+52: Fraction number: -34/19 . Double cast = -1.789474
+53: Fraction number: -698/393 . Double cast = -1.776081
+54: Fraction number: -259/151 . Double cast = -1.715232
+55: Fraction number: -626/365 . Double cast = -1.715068
+56: Fraction number: -551/330 . Double cast = -1.669697
+57: Fraction number: -689/420 . Double cast = -1.640476
+58: Fraction number: -587/360 . Double cast = -1.630556
+59: Fraction number: -839/517 . Double cast = -1.622824
+60: Fraction number: -831/538 . Double cast = -1.544610
+61: Fraction number: -913/593 . Double cast = -1.539629
+62: Fraction number: -944/616 . Double cast = -1.532468
+63: Fraction number: -809/528 . Double cast = -1.532197
+64: Fraction number: -944/617 . Double cast = -1.529984
+65: Fraction number: -951/628 . Double cast = -1.514331
+66: Fraction number: -290/196 . Double cast = -1.479592
+67: Fraction number: -384/265 . Double cast = -1.449057
+68: Fraction number: -566/395 . Double cast = -1.432911
+69: Fraction number: -997/714 . Double cast = -1.396359
+70: Fraction number: -599/433 . Double cast = -1.383372
+71: Fraction number: -796/586 . Double cast = -1.358362
+72: Fraction number: -821/627 . Double cast = -1.309410
+73: Fraction number: -541/416 . Double cast = -1.300481
+74: Fraction number: -332/268 . Double cast = -1.238806
+75: Fraction number: -990/808 . Double cast = -1.225248
+76: Fraction number: -829/686 . Double cast = -1.208455
+77: Fraction number: -131/109 . Double cast = -1.201835
+78: Fraction number: -864/767 . Double cast = -1.126467
+79: Fraction number: -761/676 . Double cast = -1.125740
+80: Fraction number: -351/313 . Double cast = -1.121406
+81: Fraction number: -600/547 . Double cast = -1.096892
+82: Fraction number: -435/412 . Double cast = -1.055825
+83: Fraction number: -812/776 . Double cast = -1.046392
+84: Fraction number: -780/773 . Double cast = -1.009056
+85: Fraction number: -419/421 . Double cast = -0.995249
+86: Fraction number: -367/369 . Double cast = -0.994580
+87: Fraction number: -331/336 . Double cast = -0.985119
+88: Fraction number: -626/644 . Double cast = -0.972050
+89: Fraction number: -651/675 . Double cast = -0.964444
+90: Fraction number: -844/894 . Double cast = -0.944072
+91: Fraction number: -350/372 . Double cast = -0.940860
+92: Fraction number: -925/987 . Double cast = -0.937183
+93: Fraction number: -643/707 . Double cast = -0.909477
+94: Fraction number: -280/313 . Double cast = -0.894569
+95: Fraction number: -809/960 . Double cast = -0.842708
+96: Fraction number: -526/636 . Double cast = -0.827044
+97: Fraction number: -473/589 . Double cast = -0.803056
+98: Fraction number: -496/626 . Double cast = -0.792332
+99: Fraction number: -248/314 . Double cast = -0.789809
+100: Fraction number: -467/597 . Double cast = -0.782245
+101: Fraction number: -699/906 . Double cast = -0.771523
+102: Fraction number: -525/708 . Double cast = -0.741525
+103: Fraction number: -513/692 . Double cast = -0.741329
+104: Fraction number: -520/704 . Double cast = -0.738636
+105: Fraction number: -121/165 . Double cast = -0.733333
+106: Fraction number: -307/430 . Double cast = -0.713953
+107: Fraction number: -653/918 . Double cast = -0.711329
+108: Fraction number: -674/950 . Double cast = -0.709474
+109: Fraction number: -560/790 . Double cast = -0.708861
+110: Fraction number: -473/693 . Double cast = -0.682540
+111: Fraction number: -250/384 . Double cast = -0.651042
+112: Fraction number: -54/84 . Double cast = -0.642857
+113: Fraction number: -617/969 . Double cast = -0.636739
+114: Fraction number: -598/958 . Double cast = -0.624217
+115: Fraction number: -213/342 . Double cast = -0.622807
+116: Fraction number: -168/272 . Double cast = -0.617647
+117: Fraction number: -525/879 . Double cast = -0.597270
+118: Fraction number: -454/775 . Double cast = -0.585806
+119: Fraction number: -432/740 . Double cast = -0.583784
+120: Fraction number: -442/786 . Double cast = -0.562341
+121: Fraction number: -551/996 . Double cast = -0.553213
+122: Fraction number: -379/686 . Double cast = -0.552478
+123: Fraction number: -348/631 . Double cast = -0.551506
+124: Fraction number: -117/217 . Double cast = -0.539171
+125: Fraction number: -495/955 . Double cast = -0.518325
+126: Fraction number: -398/776 . Double cast = -0.512887
+127: Fraction number: -200/391 . Double cast = -0.511509
+128: Fraction number: -295/595 . Double cast = -0.495798
+129: Fraction number: -359/729 . Double cast = -0.492455
+130: Fraction number: -423/873 . Double cast = -0.484536
+131: Fraction number: -411/851 . Double cast = -0.482961
+132: Fraction number: -107/227 . Double cast = -0.471366
+133: Fraction number: -441/944 . Double cast = -0.467161
+134: Fraction number: -208/481 . Double cast = -0.432432
+135: Fraction number: -204/477 . Double cast = -0.427673
+136: Fraction number: -331/785 . Double cast = -0.421656
+137: Fraction number: -274/663 . Double cast = -0.413273
+138: Fraction number: -182/449 . Double cast = -0.405345
+139: Fraction number: -123/304 . Double cast = -0.404605
+140: Fraction number: -334/845 . Double cast = -0.395266
+141: Fraction number: -352/904 . Double cast = -0.389381
+142: Fraction number: -118/332 . Double cast = -0.355422
+143: Fraction number: -348/982 . Double cast = -0.354379
+144: Fraction number: -291/822 . Double cast = -0.354015
+145: Fraction number: -318/989 . Double cast = -0.321537
+146: Fraction number: -195/611 . Double cast = -0.319149
+147: Fraction number: -157/499 . Double cast = -0.314629
+148: Fraction number: -157/526 . Double cast = -0.298479
+149: Fraction number: -152/514 . Double cast = -0.295720
+150: Fraction number: -237/860 . Double cast = -0.275581
+151: Fraction number: -45/174 . Double cast = -0.258621
+152: Fraction number: -190/785 . Double cast = -0.242038
+153: Fraction number: -136/573 . Double cast = -0.237347
+154: Fraction number: -24/104 . Double cast = -0.230769
+155: Fraction number: -200/891 . Double cast = -0.224467
+156: Fraction number: -94/424 . Double cast = -0.221698
+157: Fraction number: -127/578 . Double cast = -0.219723
+158: Fraction number: -189/881 . Double cast = -0.214529
+159: Fraction number: -115/541 . Double cast = -0.212569
+160: Fraction number: -190/949 . Double cast = -0.200211
+161: Fraction number: -32/160 . Double cast = -0.200000
+162: Fraction number: -137/727 . Double cast = -0.188446
+163: Fraction number: -144/778 . Double cast = -0.185090
+164: Fraction number: -132/963 . Double cast = -0.137072
+165: Fraction number: -99/734 . Double cast = -0.134877
+166: Fraction number: -94/916 . Double cast = -0.102620
+167: Fraction number: -89/902 . Double cast = -0.098670
+168: Fraction number: -58/602 . Double cast = -0.096346
+169: Fraction number: -69/748 . Double cast = -0.092246
+170: Fraction number: -76/921 . Double cast = -0.082519
+171: Fraction number: -48/640 . Double cast = -0.075000
+172: Fraction number: -65/940 . Double cast = -0.069149
+173: Fraction number: -54/786 . Double cast = -0.068702
+174: Fraction number: -63/982 . Double cast = -0.064155
+175: Fraction number: -48/988 . Double cast = -0.048583
+176: Fraction number: -27/939 . Double cast = -0.028754
+177: Fraction number: -20/851 . Double cast = -0.023502
+178: Fraction number: -14/690 . Double cast = -0.020290
+179: Fraction number: -13/777 . Double cast = -0.016731
+180: Fraction number: -7/822 . Double cast = -0.008516
+181: Fraction number: -4/724 . Double cast = -0.005525
+182: Fraction number: 11/789 . Double cast = 0.013942
+183: Fraction number: 7/328 . Double cast = 0.021341
+184: Fraction number: 11/460 . Double cast = 0.023913
+185: Fraction number: 23/798 . Double cast = 0.028822
+186: Fraction number: 31/943 . Double cast = 0.032874
+187: Fraction number: 8/211 . Double cast = 0.037915
+188: Fraction number: 22/573 . Double cast = 0.038394
+189: Fraction number: 39/976 . Double cast = 0.039959
+190: Fraction number: 34/723 . Double cast = 0.047026
+191: Fraction number: 46/923 . Double cast = 0.049837
+192: Fraction number: 49/936 . Double cast = 0.052350
+193: Fraction number: 45/348 . Double cast = 0.129310
+194: Fraction number: 80/596 . Double cast = 0.134228
+195: Fraction number: 69/463 . Double cast = 0.149028
+196: Fraction number: 118/776 . Double cast = 0.152062
+197: Fraction number: 162/891 . Double cast = 0.181818
+198: Fraction number: 91/485 . Double cast = 0.187629
+199: Fraction number: 109/540 . Double cast = 0.201852
+200: Fraction number: 98/476 . Double cast = 0.205882
+201: Fraction number: 91/439 . Double cast = 0.207289
+202: Fraction number: 237/806 . Double cast = 0.294045
+203: Fraction number: 303/968 . Double cast = 0.313017
+204: Fraction number: 313/994 . Double cast = 0.314889
+205: Fraction number: 280/848 . Double cast = 0.330189
+206: Fraction number: 240/726 . Double cast = 0.330579
+207: Fraction number: 279/817 . Double cast = 0.341493
+208: Fraction number: 300/866 . Double cast = 0.346420
+209: Fraction number: 199/537 . Double cast = 0.370577
+210: Fraction number: 159/426 . Double cast = 0.373239
+211: Fraction number: 325/819 . Double cast = 0.396825
+212: Fraction number: 97/233 . Double cast = 0.416309
+213: Fraction number: 302/720 . Double cast = 0.419444
+214: Fraction number: 167/396 . Double cast = 0.421717
+215: Fraction number: 416/960 . Double cast = 0.433333
+216: Fraction number: 187/411 . Double cast = 0.454988
+217: Fraction number: 450/947 . Double cast = 0.475185
+218: Fraction number: 268/555 . Double cast = 0.482883
+219: Fraction number: 319/645 . Double cast = 0.494574
+220: Fraction number: 224/439 . Double cast = 0.510251
+221: Fraction number: 454/882 . Double cast = 0.514739
+222: Fraction number: 504/964 . Double cast = 0.522822
+223: Fraction number: 429/813 . Double cast = 0.527675
+224: Fraction number: 501/930 . Double cast = 0.538710
+225: Fraction number: 112/191 . Double cast = 0.586387
+226: Fraction number: 381/639 . Double cast = 0.596244
+227: Fraction number: 560/937 . Double cast = 0.597652
+228: Fraction number: 331/550 . Double cast = 0.601818
+229: Fraction number: 333/551 . Double cast = 0.604356
+230: Fraction number: 429/691 . Double cast = 0.620839
+231: Fraction number: 553/881 . Double cast = 0.627696
+232: Fraction number: 618/965 . Double cast = 0.640415
+233: Fraction number: 212/331 . Double cast = 0.640483
+234: Fraction number: 627/972 . Double cast = 0.645062
+235: Fraction number: 625/946 . Double cast = 0.660677
+236: Fraction number: 296/441 . Double cast = 0.671202
+237: Fraction number: 610/907 . Double cast = 0.672547
+238: Fraction number: 397/585 . Double cast = 0.678632
+239: Fraction number: 610/880 . Double cast = 0.693182
+240: Fraction number: 303/421 . Double cast = 0.719715
+241: Fraction number: 423/572 . Double cast = 0.739510
+242: Fraction number: 670/892 . Double cast = 0.751121
+243: Fraction number: 478/634 . Double cast = 0.753943
+244: Fraction number: 436/538 . Double cast = 0.810409
+245: Fraction number: 582/707 . Double cast = 0.823197
+246: Fraction number: 522/634 . Double cast = 0.823344
+247: Fraction number: 683/827 . Double cast = 0.825877
+248: Fraction number: 468/564 . Double cast = 0.829787
+249: Fraction number: 740/880 . Double cast = 0.840909
+250: Fraction number: 674/782 . Double cast = 0.861893
+251: Fraction number: 794/912 . Double cast = 0.870614
+252: Fraction number: 504/563 . Double cast = 0.895204
+253: Fraction number: 886/989 . Double cast = 0.895854
+254: Fraction number: 741/802 . Double cast = 0.923940
+255: Fraction number: 620/670 . Double cast = 0.925373
+256: Fraction number: 318/343 . Double cast = 0.927114
+257: Fraction number: 546/588 . Double cast = 0.928571
+258: Fraction number: 684/715 . Double cast = 0.956643
+259: Fraction number: 133/138 . Double cast = 0.963768
+260: Fraction number: 978/993 . Double cast = 0.984894
+261: Fraction number: 571/575 . Double cast = 0.993043
+262: Fraction number: 579/582 . Double cast = 0.994845
+263: Fraction number: 747/732 . Double cast = 1.020492
+264: Fraction number: 614/595 . Double cast = 1.031933
+265: Fraction number: 103/97 . Double cast = 1.061856
+266: Fraction number: 936/858 . Double cast = 1.090909
+267: Fraction number: 362/331 . Double cast = 1.093656
+268: Fraction number: 172/152 . Double cast = 1.131579
+269: Fraction number: 576/495 . Double cast = 1.163636
+270: Fraction number: 819/699 . Double cast = 1.171674
+271: Fraction number: 752/633 . Double cast = 1.187994
+272: Fraction number: 720/600 . Double cast = 1.200000
+273: Fraction number: 843/687 . Double cast = 1.227074
+274: Fraction number: 748/608 . Double cast = 1.230263
+275: Fraction number: 423/343 . Double cast = 1.233236
+276: Fraction number: 392/301 . Double cast = 1.302326
+277: Fraction number: 339/258 . Double cast = 1.313953
+278: Fraction number: 428/320 . Double cast = 1.337500
+279: Fraction number: 743/546 . Double cast = 1.360806
+280: Fraction number: 605/442 . Double cast = 1.368778
+281: Fraction number: 569/411 . Double cast = 1.384428
+282: Fraction number: 828/593 . Double cast = 1.396290
+283: Fraction number: 721/510 . Double cast = 1.413725
+284: Fraction number: 895/602 . Double cast = 1.486711
+285: Fraction number: 664/438 . Double cast = 1.515982
+286: Fraction number: 528/347 . Double cast = 1.521614
+287: Fraction number: 582/378 . Double cast = 1.539683
+288: Fraction number: 810/520 . Double cast = 1.557692
+289: Fraction number: 932/564 . Double cast = 1.652482
+290: Fraction number: 863/503 . Double cast = 1.715706
+291: Fraction number: 341/194 . Double cast = 1.757732
+292: Fraction number: 407/224 . Double cast = 1.816964
+293: Fraction number: 872/476 . Double cast = 1.831933
+294: Fraction number: 664/362 . Double cast = 1.834254
+295: Fraction number: 200/105 . Double cast = 1.904762
+296: Fraction number: 925/476 . Double cast = 1.943277
+297: Fraction number: 721/324 . Double cast = 2.225309
+298: Fraction number: 766/326 . Double cast = 2.349693
+299: Fraction number: 459/194 . Double cast = 2.365979
+300: Fraction number: 503/195 . Double cast = 2.579487
+301: Fraction number: 839/320 . Double cast = 2.621875
+302: Fraction number: 423/161 . Double cast = 2.627329
+303: Fraction number: 966/357 . Double cast = 2.705882
+304: Fraction number: 617/225 . Double cast = 2.742222
+305: Fraction number: 742/267 . Double cast = 2.779026
+306: Fraction number: 633/226 . Double cast = 2.800885
+307: Fraction number: 522/178 . Double cast = 2.932584
+308: Fraction number: 877/294 . Double cast = 2.982993
+309: Fraction number: 894/297 . Double cast = 3.010101
+310: Fraction number: 865/285 . Double cast = 3.035088
+311: Fraction number: 384/123 . Double cast = 3.121951
+312: Fraction number: 792/250 . Double cast = 3.168000
+313: Fraction number: 935/278 . Double cast = 3.363309
+314: Fraction number: 452/130 . Double cast = 3.476923
+315: Fraction number: 202/58 . Double cast = 3.482759
+316: Fraction number: 303/80 . Double cast = 3.787500
+317: Fraction number: 617/158 . Double cast = 3.905063
+318: Fraction number: 431/100 . Double cast = 4.310000
+319: Fraction number: 940/218 . Double cast = 4.311927
+320: Fraction number: 633/145 . Double cast = 4.365517
+321: Fraction number: 716/161 . Double cast = 4.447205
+322: Fraction number: 530/81 . Double cast = 6.543210
+323: Fraction number: 573/83 . Double cast = 6.903614
+324: Fraction number: 943/136 . Double cast = 6.933824
+325: Fraction number: 756/62 . Double cast = 12.193548
+326: Fraction number: 51/4 . Double cast = 12.750000
+327: Fraction number: 710/54 . Double cast = 13.148148
+328: Fraction number: 689/24 . Double cast = 28.708333
+329: Fraction number: 972/29 . Double cast = 33.517241
+330: Fraction number: 893/23 . Double cast = 38.826087
+331: Complex number: real = 11.365970, imaginary = 39.362630. Double cast = 40.970745
+332: Complex number: real = 18.556836, imaginary = 38.316007. Double cast = 42.573144
+333: Fraction number: 666/14 . Double cast = 47.571429
+334: Fraction number: 971/15 . Double cast = 64.733333
+335: Complex number: real = 53.928528, imaginary = 43.616563. Double cast = 69.359143
+336: Fraction number: 899/11 . Double cast = 81.727273
+337: Polar number: angle = 28.484291, coordinates =  (101, 27). Double cast =  104.546640
+338: Polar number: angle = 64.473728, coordinates =  (42, 98). Double cast =  106.620823
+339: Polar number: angle = 137.335606, coordinates =  (69, 93). Double cast =  115.801554
+340: Polar number: angle = 20.034999, coordinates =  (114, -23). Double cast =  116.297033
+341: Polar number: angle = 145.762322, coordinates =  (96, -76). Double cast =  122.441823
+342: Polar number: angle = 69.344456, coordinates =  (-191, 11). Double cast =  191.316492
+343: Polar number: angle = 174.428288, coordinates =  (168, 95). Double cast =  193.000000
+344: Polar number: angle = 34.632739, coordinates =  (188, 83). Double cast =  205.506691
+345: Polar number: angle = 0.683257, coordinates =  (-119, 195). Double cast =  228.442553
+346: Polar number: angle = 88.519037, coordinates =  (-65, -230). Double cast =  239.008368
+347: Polar number: angle = 46.515115, coordinates =  (241, 69). Double cast =  250.683067
+348: Polar number: angle = 57.392640, coordinates =  (-198, -156). Double cast =  252.071418
+349: Polar number: angle = 170.172576, coordinates =  (-255, -4). Double cast =  255.031371
+350: Complex number: real = 150.851921, imaginary = 212.212160. Double cast = 260.365710
+351: Polar number: angle = 185.726908, coordinates =  (-249, -82). Double cast =  262.154535
+352: Polar number: angle = 101.668274, coordinates =  (163, 207). Double cast =  263.472959
+353: Polar number: angle = 35.251528, coordinates =  (-47, -260). Double cast =  264.213928
+354: Polar number: angle = 138.087461, coordinates =  (38, 270). Double cast =  272.660962
+355: Polar number: angle = 60.484180, coordinates =  (-159, -225). Double cast =  275.510435
+356: Complex number: real = 191.141128, imaginary = 204.850635. Double cast = 280.176219
+357: Polar number: angle = 145.024770, coordinates =  (72, -271). Double cast =  280.401498
+358: Polar number: angle = 5.911083, coordinates =  (61, -281). Double cast =  287.544779
+359: Polar number: angle = 156.932875, coordinates =  (255, 138). Double cast =  289.946547
+360: Polar number: angle = 200.802406, coordinates =  (-76, -280). Double cast =  290.131005
+361: Polar number: angle = 94.497669, coordinates =  (-249, 153). Double cast =  292.249893
+362: Polar number: angle = 142.045341, coordinates =  (263, 155). Double cast =  305.276923
+363: Polar number: angle = 108.294970, coordinates =  (310, 43). Double cast =  312.968049
+364: Polar number: angle = 168.164685, coordinates =  (-80, 303). Double cast =  313.383152
+365: Polar number: angle = 190.122507, coordinates =  (-286, 137). Double cast =  317.119851
+366: Polar number: angle = 19.682779, coordinates =  (-125, 293). Double cast =  318.549839
+367: Polar number: angle = 75.211794, coordinates =  (-279, 169). Double cast =  326.193194
+368: Polar number: angle = 55.814282, coordinates =  (176, 276). Double cast =  327.340801
+369: Complex number: real = 234.308516, imaginary = 233.664316. Double cast = 330.907077
+370: Complex number: real = 331.306062, imaginary = 70.984922. Double cast = 338.825273
+371: Complex number: real = 278.595741, imaginary = 192.872976. Double cast = 338.844466
+372: Polar number: angle = 85.154770, coordinates =  (317, -137). Double cast =  345.337516
+373: Polar number: angle = 190.105312, coordinates =  (334, -104). Double cast =  349.817095
+374: Polar number: angle = 94.431069, coordinates =  (-233, 261). Double cast =  349.871405
+375: Polar number: angle = 174.700235, coordinates =  (-221, 272). Double cast =  350.463978
+376: Polar number: angle = 148.596036, coordinates =  (169, 311). Double cast =  353.951974
+377: Polar number: angle = 169.534876, coordinates =  (-331, 126). Double cast =  354.170863
+378: Polar number: angle = 177.554308, coordinates =  (-359, 7). Double cast =  359.068239
+379: Polar number: angle = 54.280289, coordinates =  (321, -165). Double cast =  360.923815
+380: Polar number: angle = 97.507424, coordinates =  (169, -325). Double cast =  366.314073
+381: Polar number: angle = 145.406977, coordinates =  (372, -30). Double cast =  373.207717
+382: Polar number: angle = 172.142941, coordinates =  (274, -259). Double cast =  377.037133
+383: Polar number: angle = 99.653873, coordinates =  (-36, 384). Double cast =  385.683808
+384: Polar number: angle = 44.749331, coordinates =  (-310, -232). Double cast =  387.200207
+385: Polar number: angle = 23.113071, coordinates =  (-247, -300). Double cast =  388.598765
+386: Polar number: angle = 184.219152, coordinates =  (202, -337). Double cast =  392.903296
+387: Complex number: real = 50.442215, imaginary = 397.927888. Double cast = 401.112230
+388: Polar number: angle = 111.705099, coordinates =  (-389, 100). Double cast =  401.647856
+389: Polar number: angle = 68.799383, coordinates =  (402, -26). Double cast =  402.839919
+390: Polar number: angle = 52.383502, coordinates =  (-275, -304). Double cast =  409.928042
+391: Complex number: real = 121.097164, imaginary = 395.343297. Double cast = 413.474117
+392: Polar number: angle = 100.506820, coordinates =  (-369, 202). Double cast =  420.672081
+393: Polar number: angle = 25.776418, coordinates =  (402, 146). Double cast =  427.691478
+394: Complex number: real = 373.431935, imaginary = 214.048202. Double cast = 430.427744
+395: Complex number: real = 416.814416, imaginary = 140.919492. Double cast = 439.991546
+396: Complex number: real = 422.766313, imaginary = 136.641665. Double cast = 444.299787
+397: Polar number: angle = 150.116571, coordinates =  (-278, -356). Double cast =  451.685731
+398: Complex number: real = 221.155245, imaginary = 398.118353. Double cast = 455.420537
+399: Polar number: angle = 115.495125, coordinates =  (-122, 442). Double cast =  458.528080
+400: Polar number: angle = 87.275348, coordinates =  (117, -444). Double cast =  459.156836
+401: Polar number: angle = 190.071981, coordinates =  (430, 173). Double cast =  463.496494
+402: Complex number: real = 435.227008, imaginary = 171.699834. Double cast = 467.871116
+403: Polar number: angle = 40.525929, coordinates =  (468, 43). Double cast =  469.971276
+404: Polar number: angle = 92.571734, coordinates =  (128, 453). Double cast =  470.736657
+405: Complex number: real = 40.985489, imaginary = 477.041885. Double cast = 478.799301
+406: Polar number: angle = 111.882720, coordinates =  (28, -479). Double cast =  479.817674
+407: Complex number: real = 471.320642, imaginary = 93.245142. Double cast = 480.455830
+408: Complex number: real = 33.639523, imaginary = 479.931915. Double cast = 481.109406
+409: Complex number: real = 271.833378, imaginary = 398.658594. Double cast = 482.516383
+410: Polar number: angle = 96.659696, coordinates =  (487, -24). Double cast =  487.591017
+411: Complex number: real = 467.454629, imaginary = 151.958915. Double cast = 491.533663
+412: Polar number: angle = 90.408177, coordinates =  (-483, 110). Double cast =  495.367540
+413: Complex number: real = 306.687318, imaginary = 393.944647. Double cast = 499.248932
+414: Polar number: angle = 184.169709, coordinates =  (-263, -426). Double cast =  500.644585
+415: Polar number: angle = 119.293043, coordinates =  (-479, -146). Double cast =  500.756428
+416: Polar number: angle = 122.584787, coordinates =  (501, 37). Double cast =  502.364410
+417: Complex number: real = 457.557788, imaginary = 211.899880. Double cast = 504.242689
+418: Complex number: real = 340.676065, imaginary = 372.454547. Double cast = 504.759914
+419: Polar number: angle = 111.844506, coordinates =  (-40, 507). Double cast =  508.575461
+420: Polar number: angle = 184.515464, coordinates =  (-210, 472). Double cast =  516.608169
+421: Polar number: angle = 177.487212, coordinates =  (110, 505). Double cast =  516.841368
+422: Polar number: angle = 190.703332, coordinates =  (-295, -433). Double cast =  523.940836
+423: Polar number: angle = 135.014469, coordinates =  (199, -486). Double cast =  525.163784
+424: Complex number: real = 286.334894, imaginary = 443.965072. Double cast = 528.292208
+425: Complex number: real = 284.708479, imaginary = 445.526300. Double cast = 528.727342
+426: Polar number: angle = 78.693316, coordinates =  (-523, 107). Double cast =  533.833307
+427: Polar number: angle = 102.503177, coordinates =  (-535, 47). Double cast =  537.060518
+428: Polar number: angle = 170.100870, coordinates =  (-141, -520). Double cast =  538.777319
+429: Polar number: angle = 51.526123, coordinates =  (97, 544). Double cast =  552.580311
+430: Polar number: angle = 181.333424, coordinates =  (242, 497). Double cast =  552.786577
+431: Polar number: angle = 16.807570, coordinates =  (418, -365). Double cast =  554.931527
+432: Complex number: real = 485.808310, imaginary = 275.191671. Double cast = 558.336968
+433: Complex number: real = 499.999117, imaginary = 259.630488. Double cast = 563.388948
+434: Polar number: angle = 59.087368, coordinates =  (-472, 310). Double cast =  564.698149
+435: Complex number: real = 379.587187, imaginary = 425.590109. Double cast = 570.274822
+436: Complex number: real = 523.032957, imaginary = 231.757572. Double cast = 572.079580
+437: Polar number: angle = 174.572303, coordinates =  (242, 520). Double cast =  573.553834
+438: Polar number: angle = 111.749134, coordinates =  (-400, -415). Double cast =  576.389625
+439: Polar number: angle = 69.570242, coordinates =  (81, 574). Double cast =  579.686985
+440: Polar number: angle = 27.430848, coordinates =  (-202, 545). Double cast =  581.230591
+441: Polar number: angle = 182.128038, coordinates =  (-466, -349). Double cast =  582.200137
+442: Polar number: angle = 41.935549, coordinates =  (-297, -503). Double cast =  584.138682
+443: Polar number: angle = 191.074193, coordinates =  (463, 357). Double cast =  584.652033
+444: Polar number: angle = 148.352666, coordinates =  (219, -546). Double cast =  588.283095
+445: Complex number: real = 89.975788, imaginary = 583.353456. Double cast = 590.251554
+446: Complex number: real = 336.771369, imaginary = 485.434124. Double cast = 590.814052
+447: Polar number: angle = 25.465130, coordinates =  (311, 503). Double cast =  591.379743
+448: Complex number: real = 332.761727, imaginary = 490.765198. Double cast = 592.942533
+449: Polar number: angle = 16.813283, coordinates =  (404, 435). Double cast =  593.667415
+450: Polar number: angle = 164.699639, coordinates =  (437, 405). Double cast =  595.813729
+451: Polar number: angle = 57.982881, coordinates =  (322, -502). Double cast =  596.395842
+452: Polar number: angle = 33.752224, coordinates =  (598, -30). Double cast =  598.752035
+453: Polar number: angle = 121.769114, coordinates =  (344, 492). Double cast =  600.333241
+454: Polar number: angle = 106.439123, coordinates =  (-449, -406). Double cast =  605.340400
+455: Polar number: angle = 68.051615, coordinates =  (-400, 456). Double cast =  606.577283
+456: Polar number: angle = 197.424134, coordinates =  (305, 529). Double cast =  610.627546
+457: Complex number: real = 601.811895, imaginary = 111.939871. Double cast = 612.134048
+458: Polar number: angle = 65.640747, coordinates =  (-356, 499). Double cast =  612.973898
+459: Polar number: angle = 86.779658, coordinates =  (581, -196). Double cast =  613.169634
+460: Polar number: angle = 176.094068, coordinates =  (543, -286). Double cast =  613.714103
+461: Polar number: angle = 138.964197, coordinates =  (330, -518). Double cast =  614.185640
+462: Polar number: angle = 198.296327, coordinates =  (467, 401). Double cast =  615.540413
+463: Polar number: angle = 38.335445, coordinates =  (544, -289). Double cast =  616.000812
+464: Polar number: angle = 13.719795, coordinates =  (-573, 229). Double cast =  617.065637
+465: Polar number: angle = 179.461016, coordinates =  (31, -617). Double cast =  617.778277
+466: Complex number: real = 90.641590, imaginary = 614.574007. Double cast = 621.222270
+467: Complex number: real = 617.159768, imaginary = 73.714710. Double cast = 621.546488
+468: Complex number: real = 357.832903, imaginary = 512.541271. Double cast = 625.094345
+469: Polar number: angle = 2.691272, coordinates =  (-118, -621). Double cast =  632.111541
+470: Polar number: angle = 138.918436, coordinates =  (150, -615). Double cast =  633.028435
+471: Polar number: angle = 16.931441, coordinates =  (210, 599). Double cast =  634.744831
+472: Complex number: real = 628.836375, imaginary = 92.332928. Double cast = 635.578915
+473: Polar number: angle = 102.594015, coordinates =  (624, -130). Double cast =  637.397835
+474: Complex number: real = 273.542773, imaginary = 577.134761. Double cast = 638.678464
+475: Polar number: angle = 165.996490, coordinates =  (-357, 532). Double cast =  640.681668
+476: Polar number: angle = 130.681491, coordinates =  (600, -232). Double cast =  643.291536
+477: Complex number: real = 311.748293, imaginary = 563.890737. Double cast = 644.328924
+478: Polar number: angle = 37.915687, coordinates =  (19, 645). Double cast =  645.279784
+479: Polar number: angle = 132.289279, coordinates =  (-519, -384). Double cast =  645.613662
+480: Complex number: real = 41.803589, imaginary = 645.163418. Double cast = 646.516339
+481: Polar number: angle = 146.681164, coordinates =  (383, 523). Double cast =  648.242239
+482: Polar number: angle = 31.661177, coordinates =  (-284, 588). Double cast =  652.993109
+483: Complex number: real = 613.685165, imaginary = 225.871871. Double cast = 653.932400
+484: Polar number: angle = 31.317012, coordinates =  (-578, -308). Double cast =  654.941219
+485: Polar number: angle = 91.207749, coordinates =  (605, -251). Double cast =  655.000763
+486: Polar number: angle = 94.485735, coordinates =  (-452, -475). Double cast =  655.689713
+487: Polar number: angle = 41.050482, coordinates =  (-62, -653). Double cast =  655.936735
+488: Complex number: real = 653.555733, imaginary = 57.398937. Double cast = 656.071439
+489: Complex number: real = 649.685043, imaginary = 111.906563. Double cast = 659.252405
+490: Complex number: real = 584.819726, imaginary = 304.398144. Double cast = 659.296854
+491: Polar number: angle = 154.200645, coordinates =  (403, 523). Double cast =  660.256011
+492: Polar number: angle = 91.416761, coordinates =  (233, -619). Double cast =  661.400030
+493: Polar number: angle = 106.793832, coordinates =  (303, -588). Double cast =  661.477891
+494: Polar number: angle = 20.770618, coordinates =  (-631, 210). Double cast =  665.027067
+495: Polar number: angle = 165.535161, coordinates =  (-526, 417). Double cast =  671.241387
+496: Polar number: angle = 62.607855, coordinates =  (29, 675). Double cast =  675.622676
+497: Polar number: angle = 46.532563, coordinates =  (276, 620). Double cast =  678.657498
+498: Polar number: angle = 38.375310, coordinates =  (-510, -449). Double cast =  679.485835
+499: Polar number: angle = 5.827817, coordinates =  (552, -400). Double cast =  681.692013
+500: Polar number: angle = 46.218959, coordinates =  (56, -683). Double cast =  685.291909
+501: Polar number: angle = 41.888348, coordinates =  (-682, 82). Double cast =  686.911930
+502: Polar number: angle = 144.110012, coordinates =  (354, -591). Double cast =  688.910009
+503: Polar number: angle = 84.024292, coordinates =  (344, -597). Double cast =  689.017416
+504: Polar number: angle = 104.248455, coordinates =  (492, 484). Double cast =  690.159402
+505: Polar number: angle = 14.235327, coordinates =  (-691, 77). Double cast =  695.276923
+506: Polar number: angle = 155.221213, coordinates =  (698, -31). Double cast =  698.688056
+507: Polar number: angle = 104.939210, coordinates =  (650, -262). Double cast =  700.816666
+508: Complex number: real = 666.872537, imaginary = 215.706278. Double cast = 700.890989
+509: Complex number: real = 133.669812, imaginary = 690.196960. Double cast = 703.021665
+510: Polar number: angle = 176.814099, coordinates =  (681, -183). Double cast =  705.159556
+511: Complex number: real = 463.007182, imaginary = 533.086030. Double cast = 706.085240
+512: Polar number: angle = 72.235403, coordinates =  (-673, 220). Double cast =  708.045902
+513: Complex number: real = 479.037492, imaginary = 529.185770. Double cast = 713.802842
+514: Complex number: real = 401.556517, imaginary = 594.481430. Double cast = 717.395154
+515: Polar number: angle = 155.094000, coordinates =  (4, 718). Double cast =  718.011142
+516: Polar number: angle = 48.630569, coordinates =  (475, 540). Double cast =  719.183565
+517: Polar number: angle = 193.970521, coordinates =  (-464, 553). Double cast =  721.876028
+518: Polar number: angle = 96.764005, coordinates =  (564, -453). Double cast =  723.398231
+519: Polar number: angle = 61.107739, coordinates =  (592, -417). Double cast =  724.122227
+520: Polar number: angle = 106.143383, coordinates =  (640, -339). Double cast =  724.238220
+521: Complex number: real = 713.413157, imaginary = 144.265916. Double cast = 727.853685
+522: Polar number: angle = 57.757851, coordinates =  (-476, -551). Double cast =  728.132543
+523: Polar number: angle = 190.963839, coordinates =  (678, 272). Double cast =  730.525838
+524: Polar number: angle = 61.301055, coordinates =  (-466, 563). Double cast =  730.838559
+525: Polar number: angle = 9.799586, coordinates =  (148, 717). Double cast =  732.115428
+526: Polar number: angle = 120.274588, coordinates =  (-625, 387). Double cast =  735.114957
+527: Polar number: angle = 91.377179, coordinates =  (-641, -360). Double cast =  735.174129
+528: Polar number: angle = 92.552801, coordinates =  (718, 167). Double cast =  737.165517
+529: Polar number: angle = 126.848695, coordinates =  (312, -670). Double cast =  739.083216
+530: Polar number: angle = 194.401833, coordinates =  (385, 635). Double cast =  742.596795
+531: Polar number: angle = 84.449827, coordinates =  (731, -139). Double cast =  744.098112
+532: Polar number: angle = 147.055279, coordinates =  (425, 615). Double cast =  747.562706
+533: Polar number: angle = 200.223189, coordinates =  (746, 70). Double cast =  749.276985
+534: Complex number: real = 478.284531, imaginary = 579.510689. Double cast = 751.391197
+535: Polar number: angle = 164.353425, coordinates =  (-477, 587). Double cast =  756.371602
+536: Polar number: angle = 147.047033, coordinates =  (229, -725). Double cast =  760.306517
+537: Complex number: real = 442.157154, imaginary = 620.169110. Double cast = 761.651281
+538: Complex number: real = 472.479779, imaginary = 597.646495. Double cast = 761.852003
+539: Polar number: angle = 151.518773, coordinates =  (-591, -481). Double cast =  761.998688
+540: Polar number: angle = 106.962926, coordinates =  (-525, 557). Double cast =  765.424065
+541: Polar number: angle = 126.332748, coordinates =  (-138, -753). Double cast =  765.540985
+542: Polar number: angle = 188.576173, coordinates =  (-271, 726). Double cast =  774.930319
+543: Polar number: angle = 118.473190, coordinates =  (-576, -521). Double cast =  776.670458
+544: Complex number: real = 266.544049, imaginary = 734.054810. Double cast = 780.949546
+545: Polar number: angle = 86.612816, coordinates =  (-774, 135). Double cast =  785.685051
+546: Complex number: real = 400.463210, imaginary = 676.693285. Double cast = 786.310742
+547: Polar number: angle = 38.349783, coordinates =  (712, -334). Double cast =  786.447710
+548: Polar number: angle = 35.781356, coordinates =  (407, -673). Double cast =  786.497298
+549: Polar number: angle = 131.752406, coordinates =  (-362, 699). Double cast =  787.175330
+550: Polar number: angle = 197.654077, coordinates =  (-343, 711). Double cast =  789.411173
+551: Polar number: angle = 2.696007, coordinates =  (-775, -158). Double cast =  790.941844
+552: Polar number: angle = 24.720948, coordinates =  (697, 374). Double cast =  791.002528
+553: Polar number: angle = 53.183201, coordinates =  (380, 695). Double cast =  792.101635
+554: Polar number: angle = 7.312989, coordinates =  (607, -510). Double cast =  792.810822
+555: Complex number: real = 666.495691, imaginary = 436.163081. Double cast = 796.526672
+556: Polar number: angle = 93.709069, coordinates =  (624, 496). Double cast =  797.114797
+557: Polar number: angle = 130.133293, coordinates =  (-213, -771). Double cast =  799.881241
+558: Complex number: real = 333.478682, imaginary = 730.665240. Double cast = 803.168553
+559: Polar number: angle = 108.511728, coordinates =  (-805, -22). Double cast =  805.300565
+560: Polar number: angle = 9.126258, coordinates =  (513, 623). Double cast =  807.030359
+561: Polar number: angle = 76.661425, coordinates =  (493, -645). Double cast =  811.833727
+562: Polar number: angle = 92.439726, coordinates =  (98, 806). Double cast =  811.935958
+563: Polar number: angle = 66.771090, coordinates =  (727, 362). Double cast =  812.140998
+564: Polar number: angle = 129.143045, coordinates =  (-813, 25). Double cast =  813.384288
+565: Polar number: angle = 110.048265, coordinates =  (-642, 501). Double cast =  814.349434
+566: Polar number: angle = 12.314811, coordinates =  (-211, -790). Double cast =  817.692485
+567: Polar number: angle = 17.772741, coordinates =  (418, 704). Double cast =  818.742939
+568: Complex number: real = 814.104408, imaginary = 87.794239. Double cast = 818.824655
+569: Polar number: angle = 11.977238, coordinates =  (-341, 747). Double cast =  821.151630
+570: Polar number: angle = 154.721872, coordinates =  (-207, -798). Double cast =  824.410699
+571: Complex number: real = 375.962295, imaginary = 733.729671. Double cast = 824.443374
+572: Polar number: angle = 130.373973, coordinates =  (790, -237). Double cast =  824.784214
+573: Complex number: real = 805.527420, imaginary = 183.364629. Double cast = 826.133774
+574: Polar number: angle = 141.050603, coordinates =  (-824, 68). Double cast =  826.801064
+575: Polar number: angle = 61.569928, coordinates =  (-35, 834). Double cast =  834.734089
+576: Complex number: real = 22.037714, imaginary = 838.669705. Double cast = 838.959197
+577: Polar number: angle = 129.713547, coordinates =  (730, 415). Double cast =  839.717214
+578: Polar number: angle = 129.820126, coordinates =  (675, 500). Double cast =  840.014881
+579: Polar number: angle = 31.384766, coordinates =  (123, -831). Double cast =  840.053570
+580: Complex number: real = 319.001657, imaginary = 779.029355. Double cast = 841.812802
+581: Complex number: real = 413.858465, imaginary = 734.535034. Double cast = 843.101741
+582: Polar number: angle = 85.749962, coordinates =  (-612, -584). Double cast =  845.931439
+583: Polar number: angle = 61.183592, coordinates =  (-834, 155). Double cast =  848.281203
+584: Polar number: angle = 22.292495, coordinates =  (-519, -674). Double cast =  850.668561
+585: Polar number: angle = 102.705012, coordinates =  (812, 261). Double cast =  852.915588
+586: Polar number: angle = 61.706461, coordinates =  (-40, -853). Double cast =  853.937351
+587: Complex number: real = 283.362057, imaginary = 807.203926. Double cast = 855.495315
+588: Polar number: angle = 159.301772, coordinates =  (833, -201). Double cast =  856.907230
+589: Polar number: angle = 108.458841, coordinates =  (-703, 494). Double cast =  859.211848
+590: Complex number: real = 318.939725, imaginary = 798.254957. Double cast = 859.612428
+591: Complex number: real = 238.207280, imaginary = 826.986988. Double cast = 860.610357
+592: Polar number: angle = 103.682644, coordinates =  (661, 554). Double cast =  862.459854
+593: Polar number: angle = 9.602006, coordinates =  (-814, -293). Double cast =  865.127158
+594: Polar number: angle = 145.917967, coordinates =  (-851, 161). Double cast =  866.095838
+595: Polar number: angle = 167.066466, coordinates =  (-493, 716). Double cast =  869.312947
+596: Polar number: angle = 89.724963, coordinates =  (-13, 870). Double cast =  870.097121
+597: Complex number: real = 870.420896, imaginary = 16.234315. Double cast = 870.572277
+598: Polar number: angle = 17.088807, coordinates =  (627, -605). Double cast =  871.294439
+599: Polar number: angle = 68.338934, coordinates =  (257, -834). Double cast =  872.699834
+600: Polar number: angle = 6.718919, coordinates =  (-869, -111). Double cast =  876.060500
+601: Polar number: angle = 171.196260, coordinates =  (-678, 556). Double cast =  876.823814
+602: Polar number: angle = 72.081414, coordinates =  (-313, -821). Double cast =  878.640996
+603: Polar number: angle = 185.578786, coordinates =  (292, 829). Double cast =  878.922636
+604: Polar number: angle = 158.641647, coordinates =  (191, 858). Double cast =  879.002275
+605: Complex number: real = 443.587660, imaginary = 759.408225. Double cast = 879.471924
+606: Polar number: angle = 86.441705, coordinates =  (498, 730). Double cast =  883.687728
+607: Complex number: real = 471.706535, imaginary = 748.019092. Double cast = 884.330039
+608: Polar number: angle = 161.596947, coordinates =  (-591, -658). Double cast =  884.446154
+609: Polar number: angle = 68.771944, coordinates =  (376, 802). Double cast =  885.765206
+610: Polar number: angle = 136.555453, coordinates =  (-378, -804). Double cast =  888.425574
+611: Polar number: angle = 82.719747, coordinates =  (-844, 283). Double cast =  890.182566
+612: Polar number: angle = 96.709199, coordinates =  (71, 889). Double cast =  891.830701
+613: Complex number: real = 589.258844, imaginary = 675.144520. Double cast = 896.128400
+614: Complex number: real = 41.134039, imaginary = 895.946045. Double cast = 896.889806
+615: Polar number: angle = 158.961436, coordinates =  (-856, -271). Double cast =  897.873599
+616: Polar number: angle = 101.203158, coordinates =  (401, -804). Double cast =  898.452559
+617: Complex number: real = 901.575679, imaginary = 11.585675. Double cast = 901.650117
+618: Polar number: angle = 81.382244, coordinates =  (-510, 744). Double cast =  902.017738
+619: Complex number: real = 765.757833, imaginary = 477.853380. Double cast = 902.623350
+620: Polar number: angle = 106.814702, coordinates =  (860, 281). Double cast =  904.743610
+621: Polar number: angle = 198.022677, coordinates =  (-664, -615). Double cast =  905.053037
+622: Polar number: angle = 160.753174, coordinates =  (92, 905). Double cast =  909.664224
+623: Complex number: real = 799.882860, imaginary = 435.714594. Double cast = 910.856629
+624: Complex number: real = 693.195916, imaginary = 591.801325. Double cast = 911.454544
+625: Polar number: angle = 59.513274, coordinates =  (-634, 655). Double cast =  911.581593
+626: Polar number: angle = 98.231068, coordinates =  (445, -797). Double cast =  912.816520
+627: Complex number: real = 881.743142, imaginary = 251.345890. Double cast = 916.867343
+628: Polar number: angle = 178.331292, coordinates =  (-851, 342). Double cast =  917.150478
+629: Polar number: angle = 72.679592, coordinates =  (426, -813). Double cast =  917.848027
+630: Polar number: angle = 47.995334, coordinates =  (-911, 120). Double cast =  918.869414
+631: Polar number: angle = 147.527021, coordinates =  (807, 440). Double cast =  919.156679
+632: Complex number: real = 912.783865, imaginary = 164.282156. Double cast = 927.449735
+633: Polar number: angle = 154.202449, coordinates =  (-683, 629). Double cast =  928.509558
+634: Complex number: real = 525.191843, imaginary = 767.225770. Double cast = 929.764408
+635: Polar number: angle = 77.612926, coordinates =  (-843, 394). Double cast =  930.529419
+636: Polar number: angle = 61.263663, coordinates =  (-928, 93). Double cast =  932.648380
+637: Polar number: angle = 154.610520, coordinates =  (-708, -613). Double cast =  936.500400
+638: Complex number: real = 643.938363, imaginary = 686.777723. Double cast = 941.445833
+639: Polar number: angle = 40.218798, coordinates =  (-910, -246). Double cast =  942.664309
+640: Complex number: real = 887.428414, imaginary = 338.426834. Double cast = 949.769400
+641: Polar number: angle = 199.502275, coordinates =  (-68, 948). Double cast =  950.435690
+642: Polar number: angle = 156.440638, coordinates =  (-850, 427). Double cast =  951.225000
+643: Complex number: real = 939.749145, imaginary = 153.338085. Double cast = 952.176992
+644: Polar number: angle = 131.981988, coordinates =  (744, -602). Double cast =  957.047543
+645: Polar number: angle = 57.320619, coordinates =  (-309, 911). Double cast =  961.978170
+646: Complex number: real = 512.936504, imaginary = 813.918602. Double cast = 962.064108
+647: Complex number: real = 919.494740, imaginary = 291.362681. Double cast = 964.553155
+648: Polar number: angle = 66.010268, coordinates =  (-512, 820). Double cast =  966.718160
+649: Polar number: angle = 123.264662, coordinates =  (939, -234). Double cast =  967.717417
+650: Polar number: angle = 25.368350, coordinates =  (419, -874). Double cast =  969.245583
+651: Polar number: angle = 96.420443, coordinates =  (700, 671). Double cast =  969.660250
+652: Polar number: angle = 111.449107, coordinates =  (-835, 493). Double cast =  969.677266
+653: Polar number: angle = 7.266145, coordinates =  (-967, 83). Double cast =  970.555511
+654: Polar number: angle = 106.240440, coordinates =  (-958, -182). Double cast =  975.134862
+655: Polar number: angle = 135.962945, coordinates =  (883, 416). Double cast =  976.086574
+656: Polar number: angle = 149.602249, coordinates =  (-435, -876). Double cast =  978.059814
+657: Polar number: angle = 58.176983, coordinates =  (-954, 225). Double cast =  980.173964
+658: Polar number: angle = 47.453228, coordinates =  (-939, -287). Double cast =  981.880848
+659: Complex number: real = 320.437511, imaginary = 929.282594. Double cast = 982.978299
+660: Polar number: angle = 97.022169, coordinates =  (-947, 275). Double cast =  986.120682
+661: Complex number: real = 882.732599, imaginary = 447.958215. Double cast = 989.890601
+662: Complex number: real = 513.521573, imaginary = 847.807740. Double cast = 991.202487
+663: Polar number: angle = 88.303332, coordinates =  (822, -563). Double cast =  996.319728
+664: Polar number: angle = 3.353631, coordinates =  (-872, 482). Double cast =  996.347329
+665: Polar number: angle = 36.077255, coordinates =  (631, 774). Double cast =  998.617544
+666: Polar number: angle = 89.375769, coordinates =  (542, 839). Double cast =  998.841829
+667: Polar number: angle = 142.047186, coordinates =  (-646, 762). Double cast =  998.979479
+668: Polar number: angle = 58.674525, coordinates =  (893, -450). Double cast =  999.974500
+669: Polar number: angle = 98.965740, coordinates =  (-181, -985). Double cast =  1001.491887
+670: Complex number: real = 683.926089, imaginary = 738.118925. Double cast = 1006.267580
+671: Complex number: real = 82.334365, imaginary = 1005.069367. Double cast = 1008.436106
+672: Polar number: angle = 103.252126, coordinates =  (-270, 973). Double cast =  1009.766805
+673: Polar number: angle = 14.803778, coordinates =  (-924, 413). Double cast =  1012.099303
+674: Polar number: angle = 71.059507, coordinates =  (-342, -955). Double cast =  1014.390950
+675: Complex number: real = 1016.894964, imaginary = 47.345891. Double cast = 1017.996562
+676: Polar number: angle = 88.716939, coordinates =  (433, 923). Double cast =  1019.518514
+677: Polar number: angle = 166.599330, coordinates =  (-646, -789). Double cast =  1019.723982
+678: Polar number: angle = 11.900852, coordinates =  (-440, -920). Double cast =  1019.803903
+679: Complex number: real = 409.139070, imaginary = 935.183774. Double cast = 1020.766119
+680: Polar number: angle = 72.822799, coordinates =  (597, -828). Double cast =  1020.780584
+681: Polar number: angle = 98.587070, coordinates =  (-841, -579). Double cast =  1021.039666
+682: Polar number: angle = 122.139884, coordinates =  (281, 982). Double cast =  1021.413237
+683: Polar number: angle = 88.831256, coordinates =  (-972, 316). Double cast =  1022.076318
+684: Complex number: real = 713.960460, imaginary = 733.659514. Double cast = 1023.716670
+685: Polar number: angle = 17.516422, coordinates =  (917, 460). Double cast =  1025.908865
+686: Complex number: real = 743.304216, imaginary = 711.012010. Double cast = 1028.610342
+687: Complex number: real = 743.391555, imaginary = 713.667348. Double cast = 1030.510596
+688: Polar number: angle = 124.028123, coordinates =  (637, -812). Double cast =  1032.043119
+689: Complex number: real = 703.982149, imaginary = 756.379801. Double cast = 1033.296313
+690: Polar number: angle = 38.640295, coordinates =  (402, -952). Double cast =  1033.396342
+691: Polar number: angle = 135.797872, coordinates =  (-435, 940). Double cast =  1035.772658
+692: Polar number: angle = 157.736082, coordinates =  (371, -972). Double cast =  1040.396559
+693: Polar number: angle = 95.383153, coordinates =  (-392, 966). Double cast =  1042.506595
+694: Complex number: real = 82.187135, imaginary = 1039.771319. Double cast = 1043.014439
+695: Polar number: angle = 112.645802, coordinates =  (402, -967). Double cast =  1047.231111
+696: Polar number: angle = 11.998299, coordinates =  (572, 879). Double cast =  1048.725417
+697: Polar number: angle = 93.372230, coordinates =  (668, -812). Double cast =  1051.459937
+698: Complex number: real = 170.197186, imaginary = 1040.313274. Double cast = 1054.143629
+699: Complex number: real = 232.768394, imaginary = 1031.585257. Double cast = 1057.520339
+700: Polar number: angle = 172.782175, coordinates =  (662, 827). Double cast =  1059.326673
+701: Complex number: real = 900.892149, imaginary = 560.439150. Double cast = 1060.989494
+702: Polar number: angle = 3.529700, coordinates =  (-954, 468). Double cast =  1062.609994
+703: Polar number: angle = 24.442624, coordinates =  (841, -651). Double cast =  1063.523389
+704: Polar number: angle = 139.907256, coordinates =  (666, -832). Double cast =  1065.729797
+705: Polar number: angle = 127.605603, coordinates =  (-924, -532). Double cast =  1066.208235
+706: Polar number: angle = 108.680462, coordinates =  (-724, -787). Double cast =  1069.366635
+707: Polar number: angle = 40.267695, coordinates =  (-983, -433). Double cast =  1074.140587
+708: Polar number: angle = 79.714071, coordinates =  (937, -544). Double cast =  1083.468966
+709: Polar number: angle = 21.217063, coordinates =  (-537, 943). Double cast =  1085.181091
+710: Polar number: angle = 37.710450, coordinates =  (553, 935). Double cast =  1086.293699
+711: Polar number: angle = 137.327313, coordinates =  (-914, 589). Double cast =  1087.344012
+712: Polar number: angle = 32.491122, coordinates =  (937, 563). Double cast =  1093.132197
+713: Complex number: real = 123.834338, imaginary = 1088.329434. Double cast = 1095.351953
+714: Polar number: angle = 184.619307, coordinates =  (-689, -855). Double cast =  1098.064661
+715: Polar number: angle = 6.132815, coordinates =  (622, 906). Double cast =  1098.963148
+716: Polar number: angle = 104.860828, coordinates =  (-780, 775). Double cast =  1099.556729
+717: Polar number: angle = 71.586391, coordinates =  (-754, -801). Double cast =  1100.053181
+718: Polar number: angle = 193.253922, coordinates =  (-482, 990). Double cast =  1101.101267
+719: Polar number: angle = 110.828355, coordinates =  (852, -706). Double cast =  1106.498983
+720: Complex number: real = 867.835997, imaginary = 690.623243. Double cast = 1109.098634
+721: Polar number: angle = 199.523720, coordinates =  (501, 1000). Double cast =  1118.481560
+722: Complex number: real = 599.272454, imaginary = 947.759730. Double cast = 1121.327776
+723: Polar number: angle = 12.483873, coordinates =  (866, 713). Double cast =  1121.750864
+724: Complex number: real = 254.931936, imaginary = 1095.218826. Double cast = 1124.497474
+725: Polar number: angle = 88.194652, coordinates =  (-739, 848). Double cast =  1124.822208
+726: Complex number: real = 1020.376962, imaginary = 479.803795. Double cast = 1127.555243
+727: Complex number: real = 1100.059654, imaginary = 253.591948. Double cast = 1128.911032
+728: Polar number: angle = 52.541796, coordinates =  (1000, 528). Double cast =  1130.833321
+729: Polar number: angle = 143.016744, coordinates =  (628, 943). Double cast =  1132.975287
+730: Polar number: angle = 19.480752, coordinates =  (-823, 779). Double cast =  1133.212248
+731: Complex number: real = 1092.765209, imaginary = 302.032339. Double cast = 1133.736890
+732: Polar number: angle = 67.181880, coordinates =  (-569, 983). Double cast =  1135.803680
+733: Polar number: angle = 190.790695, coordinates =  (-980, -580). Double cast =  1138.771268
+734: Polar number: angle = 167.548907, coordinates =  (651, -935). Double cast =  1139.309440
+735: Polar number: angle = 191.793055, coordinates =  (659, 932). Double cast =  1141.448641
+736: Complex number: real = 202.967253, imaginary = 1126.697825. Double cast = 1144.833479
+737: Polar number: angle = 60.079426, coordinates =  (-790, 843). Double cast =  1155.313377
+738: Complex number: real = 419.760617, imaginary = 1076.451851. Double cast = 1155.399309
+739: Polar number: angle = 170.218624, coordinates =  (748, -890). Double cast =  1162.585051
+740: Complex number: real = 119.496468, imaginary = 1157.497789. Double cast = 1163.649663
+741: Complex number: real = 1002.619807, imaginary = 593.804005. Double cast = 1165.268069
+742: Complex number: real = 572.766750, imaginary = 1016.408922. Double cast = 1166.682839
+743: Complex number: real = 338.185374, imaginary = 1117.817460. Double cast = 1167.854966
+744: Polar number: angle = 84.795353, coordinates =  (929, -711). Double cast =  1169.855547
+745: Complex number: real = 1071.690966, imaginary = 470.879646. Double cast = 1170.576426
+746: Polar number: angle = 24.562306, coordinates =  (955, 682). Double cast =  1173.519919
+747: Polar number: angle = 117.398931, coordinates =  (624, -997). Double cast =  1176.173882
+748: Polar number: angle = 32.130099, coordinates =  (-666, -970). Double cast =  1176.629083
+749: Complex number: real = 1105.225867, imaginary = 436.913491. Double cast = 1188.451773
+750: Polar number: angle = 21.562408, coordinates =  (-909, 767). Double cast =  1189.356969
+751: Polar number: angle = 114.481877, coordinates =  (984, 670). Double cast =  1190.443615
+752: Complex number: real = 33.038660, imaginary = 1191.487712. Double cast = 1191.945687
+753: Polar number: angle = 21.059984, coordinates =  (-895, 800). Double cast =  1200.427007
+754: Complex number: real = 942.992179, imaginary = 747.698705. Double cast = 1203.448213
+755: Polar number: angle = 162.043158, coordinates =  (899, 804). Double cast =  1206.075039
+756: Complex number: real = 807.126034, imaginary = 897.886726. Double cast = 1207.333014
+757: Polar number: angle = 1.741339, coordinates =  (826, -886). Double cast =  1211.310035
+758: Complex number: real = 1007.485026, imaginary = 675.784384. Double cast = 1213.140804
+759: Complex number: real = 945.506390, imaginary = 777.835066. Double cast = 1224.340526
+760: Polar number: angle = 160.729884, coordinates =  (-831, 911). Double cast =  1233.078262
+761: Polar number: angle = 78.642054, coordinates =  (981, 755). Double cast =  1237.895795
+762: Polar number: angle = 156.903034, coordinates =  (918, 842). Double cast =  1245.667692
+763: Complex number: real = 349.451010, imaginary = 1201.110995. Double cast = 1250.913119
+764: Complex number: real = 242.164800, imaginary = 1230.345646. Double cast = 1253.951435
+765: Complex number: real = 935.130178, imaginary = 836.677832. Double cast = 1254.790120
+766: Complex number: real = 1210.474775, imaginary = 341.585182. Double cast = 1257.747835
+767: Complex number: real = 868.895055, imaginary = 910.103718. Double cast = 1258.279537
+768: Polar number: angle = 182.864609, coordinates =  (-890, -900). Double cast =  1265.740890
+769: Complex number: real = 441.684658, imaginary = 1198.600775. Double cast = 1277.391544
+770: Polar number: angle = 111.093322, coordinates =  (-928, -902). Double cast =  1294.136005
+771: Polar number: angle = 94.247026, coordinates =  (-873, 976). Double cast =  1309.467449
+772: Polar number: angle = 59.434714, coordinates =  (998, -848). Double cast =  1309.621319
+773: Polar number: angle = 38.933295, coordinates =  (949, 917). Double cast =  1319.655258
+774: Polar number: angle = 88.081326, coordinates =  (-894, -971). Double cast =  1319.877646
+775: Complex number: real = 1269.358241, imaginary = 373.509509. Double cast = 1323.170320
+776: Complex number: real = 201.815759, imaginary = 1322.193634. Double cast = 1337.507236
+777: Complex number: real = 1347.195229, imaginary = 39.020458. Double cast = 1347.760209
+778: Complex number: real = 1348.118250, imaginary = 37.929240. Double cast = 1348.651713
+779: Complex number: real = 1353.929321, imaginary = 5.266287. Double cast = 1353.939563
+780: Complex number: real = 824.175974, imaginary = 1080.431908. Double cast = 1358.896297
+781: Complex number: real = 1364.701191, imaginary = 136.762198. Double cast = 1371.536816
+782: Complex number: real = 975.953731, imaginary = 969.492780. Double cast = 1375.646006
+783: Complex number: real = 272.072686, imaginary = 1355.884707. Double cast = 1382.912465
+784: Complex number: real = 1328.582421, imaginary = 393.991533. Double cast = 1385.770752
+785: Complex number: real = 831.148787, imaginary = 1127.995401. Double cast = 1401.135943
+786: Complex number: real = 312.080655, imaginary = 1371.776393. Double cast = 1406.827924
+787: Complex number: real = 1285.947495, imaginary = 572.939440. Double cast = 1407.807005
+788: Complex number: real = 1198.502298, imaginary = 739.415590. Double cast = 1408.241163
+789: Complex number: real = 831.022084, imaginary = 1142.706950. Double cast = 1412.932014
+790: Complex number: real = 1375.368609, imaginary = 345.034971. Double cast = 1417.987285
+791: Complex number: real = 978.861622, imaginary = 1028.869494. Double cast = 1420.120597
+792: Complex number: real = 1124.166366, imaginary = 869.182083. Double cast = 1420.995254
+793: Complex number: real = 27.403062, imaginary = 1432.082911. Double cast = 1432.345067
+794: Complex number: real = 46.136002, imaginary = 1452.798831. Double cast = 1453.531209
+795: Complex number: real = 955.627707, imaginary = 1096.866559. Double cast = 1454.764779
+796: Complex number: real = 600.720768, imaginary = 1325.460697. Double cast = 1455.235892
+797: Complex number: real = 546.682494, imaginary = 1349.205262. Double cast = 1455.752928
+798: Complex number: real = 1162.334386, imaginary = 886.480262. Double cast = 1461.803160
+799: Complex number: real = 1246.284482, imaginary = 774.543716. Double cast = 1467.359185
+800: Complex number: real = 433.245704, imaginary = 1402.831407. Double cast = 1468.209044
+801: Complex number: real = 615.389854, imaginary = 1334.692169. Double cast = 1469.730539
+802: Complex number: real = 1206.000879, imaginary = 843.727335. Double cast = 1471.840323
+803: Complex number: real = 208.808140, imaginary = 1460.542611. Double cast = 1475.393357
+804: Complex number: real = 324.357162, imaginary = 1441.423101. Double cast = 1477.466793
+805: Complex number: real = 1265.813962, imaginary = 762.903943. Double cast = 1477.940260
+806: Complex number: real = 1068.076822, imaginary = 1028.477641. Double cast = 1482.752290
+807: Complex number: real = 289.778899, imaginary = 1461.597498. Double cast = 1490.046662
+808: Complex number: real = 1415.151077, imaginary = 481.610731. Double cast = 1494.858344
+809: Complex number: real = 155.835034, imaginary = 1489.441389. Double cast = 1497.571437
+810: Complex number: real = 565.865883, imaginary = 1388.543948. Double cast = 1499.419385
+811: Complex number: real = 1476.171729, imaginary = 285.947031. Double cast = 1503.611877
+812: Complex number: real = 1174.231686, imaginary = 943.758272. Double cast = 1506.485887
+813: Complex number: real = 1453.859213, imaginary = 405.428873. Double cast = 1509.330707
+814: Complex number: real = 1506.363617, imaginary = 131.512893. Double cast = 1512.093577
+815: Complex number: real = 1234.730003, imaginary = 884.553519. Double cast = 1518.878898
+816: Complex number: real = 748.839055, imaginary = 1331.654699. Double cast = 1527.764434
+817: Complex number: real = 1503.514590, imaginary = 307.842044. Double cast = 1534.706111
+818: Complex number: real = 1525.277095, imaginary = 186.567483. Double cast = 1536.644930
+819: Complex number: real = 21.380757, imaginary = 1550.211221. Double cast = 1550.358658
+820: Complex number: real = 167.246733, imaginary = 1545.694024. Double cast = 1554.715885
+821: Complex number: real = 7.531423, imaginary = 1559.716971. Double cast = 1559.735154
+822: Complex number: real = 1555.715015, imaginary = 155.277065. Double cast = 1563.444970
+823: Complex number: real = 1466.096866, imaginary = 563.121003. Double cast = 1570.523889
+824: Complex number: real = 124.683365, imaginary = 1568.168483. Double cast = 1573.117393
+825: Complex number: real = 631.956571, imaginary = 1453.597675. Double cast = 1585.028488
+826: Complex number: real = 623.022462, imaginary = 1464.376501. Double cast = 1591.400492
+827: Complex number: real = 766.985847, imaginary = 1394.458481. Double cast = 1591.471566
+828: Complex number: real = 1596.369040, imaginary = 62.627830. Double cast = 1597.597058
+829: Complex number: real = 1155.999273, imaginary = 1106.192638. Double cast = 1599.998898
+830: Complex number: real = 1581.476308, imaginary = 253.849083. Double cast = 1601.719910
+831: Complex number: real = 671.910829, imaginary = 1454.510776. Double cast = 1602.206529
+832: Complex number: real = 894.477759, imaginary = 1335.813622. Double cast = 1607.634441
+833: Complex number: real = 1243.409278, imaginary = 1022.031255. Double cast = 1609.538605
+834: Complex number: real = 1524.661178, imaginary = 516.673604. Double cast = 1609.827109
+835: Complex number: real = 1108.373159, imaginary = 1173.109921. Double cast = 1613.901467
+836: Complex number: real = 175.105185, imaginary = 1608.368562. Double cast = 1617.872448
+837: Complex number: real = 1595.155823, imaginary = 361.664434. Double cast = 1635.641544
+838: Complex number: real = 1018.371447, imaginary = 1288.527377. Double cast = 1642.371215
+839: Complex number: real = 740.129043, imaginary = 1476.501854. Double cast = 1651.620030
+840: Complex number: real = 1652.122803, imaginary = 20.214934. Double cast = 1652.246470
+841: Complex number: real = 1570.516009, imaginary = 551.696418. Double cast = 1664.598892
+842: Complex number: real = 1550.590600, imaginary = 615.222719. Double cast = 1668.181706
+843: Complex number: real = 1514.634619, imaginary = 716.458046. Double cast = 1675.538768
+844: Complex number: real = 223.514435, imaginary = 1664.414028. Double cast = 1679.354864
+845: Complex number: real = 1615.903280, imaginary = 465.954903. Double cast = 1681.742365
+846: Complex number: real = 1684.987145, imaginary = 113.851270. Double cast = 1688.829119
+847: Complex number: real = 902.797826, imaginary = 1439.980936. Double cast = 1699.584953
+848: Complex number: real = 1049.467209, imaginary = 1340.517596. Double cast = 1702.459646
+849: Complex number: real = 942.861796, imaginary = 1421.691230. Double cast = 1705.929166
+850: Complex number: real = 1534.921473, imaginary = 754.967723. Double cast = 1710.543829
+851: Complex number: real = 1680.386767, imaginary = 337.216716. Double cast = 1713.888795
+852: Complex number: real = 593.817317, imaginary = 1613.435375. Double cast = 1719.241902
+853: Complex number: real = 1119.488943, imaginary = 1318.682049. Double cast = 1729.791271
+854: Complex number: real = 646.372777, imaginary = 1611.806702. Double cast = 1736.582451
+855: Complex number: real = 319.463358, imaginary = 1707.507650. Double cast = 1737.135346
+856: Complex number: real = 126.876697, imaginary = 1736.054297. Double cast = 1740.684411
+857: Complex number: real = 1720.283648, imaginary = 294.657069. Double cast = 1745.336248
+858: Complex number: real = 211.281545, imaginary = 1741.626152. Double cast = 1754.394923
+859: Complex number: real = 1694.667519, imaginary = 457.739097. Double cast = 1755.398268
+860: Complex number: real = 1524.857925, imaginary = 874.399142. Double cast = 1757.772895
+861: Complex number: real = 1517.513759, imaginary = 891.608020. Double cast = 1760.060473
+862: Complex number: real = 854.974467, imaginary = 1538.671080. Double cast = 1760.252831
+863: Complex number: real = 234.268303, imaginary = 1753.247241. Double cast = 1768.829422
+864: Complex number: real = 1418.507012, imaginary = 1063.110128. Double cast = 1772.671793
+865: Complex number: real = 1291.435772, imaginary = 1217.242478. Double cast = 1774.679015
+866: Complex number: real = 559.702068, imaginary = 1685.421433. Double cast = 1775.925621
+867: Complex number: real = 1055.069755, imaginary = 1430.292880. Double cast = 1777.332246
+868: Complex number: real = 870.361600, imaginary = 1549.820726. Double cast = 1777.490815
+869: Complex number: real = 1764.562612, imaginary = 221.878192. Double cast = 1778.457518
+870: Complex number: real = 946.791614, imaginary = 1506.621247. Double cast = 1779.416180
+871: Complex number: real = 1573.782394, imaginary = 836.097506. Double cast = 1782.091486
+872: Complex number: real = 324.589636, imaginary = 1754.282762. Double cast = 1784.058979
+873: Complex number: real = 1220.155414, imaginary = 1310.343613. Double cast = 1790.469106
+874: Complex number: real = 473.684561, imaginary = 1739.287670. Double cast = 1802.636586
+875: Complex number: real = 1613.843532, imaginary = 812.733911. Double cast = 1806.938670
+876: Complex number: real = 1813.440039, imaginary = 41.869264. Double cast = 1813.923320
+877: Complex number: real = 608.594898, imaginary = 1709.689994. Double cast = 1814.780324
+878: Complex number: real = 1603.157518, imaginary = 851.281906. Double cast = 1815.156994
+879: Complex number: real = 1817.152191, imaginary = 79.987988. Double cast = 1818.911807
+880: Complex number: real = 79.974908, imaginary = 1822.735949. Double cast = 1824.489607
+881: Complex number: real = 1247.726590, imaginary = 1333.494483. Double cast = 1826.206226
+882: Complex number: real = 253.425107, imaginary = 1812.213568. Double cast = 1829.847617
+883: Complex number: real = 1076.954028, imaginary = 1500.838102. Double cast = 1847.253363
+884: Complex number: real = 864.467917, imaginary = 1634.178328. Double cast = 1848.741082
+885: Complex number: real = 311.599194, imaginary = 1829.053727. Double cast = 1855.406045
+886: Complex number: real = 1297.494322, imaginary = 1336.080361. Double cast = 1862.418387
+887: Complex number: real = 1860.432665, imaginary = 150.906617. Double cast = 1866.542929
+888: Complex number: real = 975.850531, imaginary = 1595.311605. Double cast = 1870.107851
+889: Complex number: real = 1831.267938, imaginary = 388.472938. Double cast = 1872.018559
+890: Complex number: real = 1391.138688, imaginary = 1266.856061. Double cast = 1881.539563
+891: Complex number: real = 1301.688401, imaginary = 1361.778182. Double cast = 1883.834523
+892: Complex number: real = 1247.925623, imaginary = 1414.466668. Double cast = 1886.275249
+893: Complex number: real = 1642.408626, imaginary = 934.722293. Double cast = 1889.765028
+894: Complex number: real = 71.281133, imaginary = 1895.103973. Double cast = 1896.444058
+895: Complex number: real = 338.632031, imaginary = 1876.510782. Double cast = 1906.820486
+896: Complex number: real = 1880.148152, imaginary = 328.408767. Double cast = 1908.614521
+897: Complex number: real = 1568.061241, imaginary = 1088.619122. Double cast = 1908.902210
+898: Complex number: real = 1384.485276, imaginary = 1317.142902. Double cast = 1910.932993
+899: Complex number: real = 102.000244, imaginary = 1908.292385. Double cast = 1911.016451
+900: Complex number: real = 1763.707452, imaginary = 744.958700. Double cast = 1914.582837
+901: Complex number: real = 549.756770, imaginary = 1838.230572. Double cast = 1918.677707
+902: Complex number: real = 1186.552079, imaginary = 1508.268333. Double cast = 1919.056852
+903: Complex number: real = 913.422600, imaginary = 1704.566197. Double cast = 1933.878684
+904: Complex number: real = 1936.829239, imaginary = 57.274210. Double cast = 1937.675885
+905: Complex number: real = 661.939054, imaginary = 1823.024058. Double cast = 1939.479319
+906: Complex number: real = 376.204153, imaginary = 1907.163937. Double cast = 1943.914567
+907: Complex number: real = 1871.171394, imaginary = 529.423845. Double cast = 1944.626440
+908: Complex number: real = 534.174617, imaginary = 1876.807968. Double cast = 1951.345861
+909: Complex number: real = 823.886600, imaginary = 1777.362593. Double cast = 1959.032138
+910: Complex number: real = 1971.177601, imaginary = 122.625280. Double cast = 1974.988125
+911: Complex number: real = 1411.291525, imaginary = 1394.854365. Double cast = 1984.278829
+912: Complex number: real = 1726.475896, imaginary = 978.279293. Double cast = 1984.376324
+913: Complex number: real = 1701.573183, imaginary = 1025.202482. Double cast = 1986.552649
+914: Complex number: real = 1861.846983, imaginary = 703.940749. Double cast = 1990.479029
+915: Complex number: real = 206.133405, imaginary = 1980.637065. Double cast = 1991.334769
+916: Complex number: real = 448.658178, imaginary = 1940.464982. Double cast = 1991.657227
+917: Complex number: real = 1868.175580, imaginary = 692.162713. Double cast = 1992.277395
+918: Complex number: real = 1796.985848, imaginary = 862.442840. Double cast = 1993.229989
+919: Complex number: real = 138.476432, imaginary = 2000.203250. Double cast = 2004.990964
+920: Complex number: real = 1889.999458, imaginary = 678.233195. Double cast = 2008.008520
+921: Complex number: real = 1414.426497, imaginary = 1427.947487. Double cast = 2009.884659
+922: Complex number: real = 576.297064, imaginary = 1928.338510. Double cast = 2012.612162
+923: Complex number: real = 1893.417817, imaginary = 706.793528. Double cast = 2021.036398
+924: Complex number: real = 1913.549707, imaginary = 651.165453. Double cast = 2021.308717
+925: Complex number: real = 1099.849278, imaginary = 1706.793382. Double cast = 2030.470902
+926: Complex number: real = 1788.948445, imaginary = 960.504574. Double cast = 2030.493924
+927: Complex number: real = 845.536528, imaginary = 1848.403581. Double cast = 2032.616004
+928: Complex number: real = 1572.084997, imaginary = 1292.260563. Double cast = 2035.040196
+929: Complex number: real = 1135.798644, imaginary = 1700.052287. Double cast = 2044.557737
+930: Complex number: real = 655.117474, imaginary = 1938.051176. Double cast = 2045.781334
+931: Complex number: real = 1416.310742, imaginary = 1480.389645. Double cast = 2048.777591
+932: Complex number: real = 1999.766495, imaginary = 449.237774. Double cast = 2049.604989
+933: Complex number: real = 1335.120215, imaginary = 1561.750372. Double cast = 2054.655741
+934: Complex number: real = 1716.403955, imaginary = 1131.469697. Double cast = 2055.788465
+935: Complex number: real = 964.941981, imaginary = 1826.660927. Double cast = 2065.866203
+936: Complex number: real = 1963.332695, imaginary = 642.780210. Double cast = 2065.875521
+937: Complex number: real = 955.300122, imaginary = 1836.110018. Double cast = 2069.758035
+938: Complex number: real = 1985.705868, imaginary = 593.883197. Double cast = 2072.613096
+939: Complex number: real = 827.909208, imaginary = 1906.904653. Double cast = 2078.874458
+940: Complex number: real = 1790.257524, imaginary = 1058.282464. Double cast = 2079.659534
+941: Complex number: real = 706.493485, imaginary = 1960.767691. Double cast = 2084.164816
+942: Complex number: real = 1917.183057, imaginary = 836.893645. Double cast = 2091.884760
+943: Complex number: real = 1476.383457, imaginary = 1483.194450. Double cast = 2092.743149
+944: Complex number: real = 1750.879341, imaginary = 1150.171586. Double cast = 2094.868288
+945: Complex number: real = 1938.317195, imaginary = 848.368418. Double cast = 2115.845581
+946: Complex number: real = 1765.307859, imaginary = 1177.756626. Double cast = 2122.126883
+947: Complex number: real = 1734.967038, imaginary = 1236.301390. Double cast = 2130.387699
+948: Complex number: real = 1576.641703, imaginary = 1446.816211. Double cast = 2139.877616
+949: Complex number: real = 1969.778888, imaginary = 841.763561. Double cast = 2142.100549
+950: Complex number: real = 1655.234234, imaginary = 1360.569214. Double cast = 2142.649984
+951: Complex number: real = 1211.729983, imaginary = 1768.877797. Double cast = 2144.112453
+952: Complex number: real = 1891.554443, imaginary = 1032.350968. Double cast = 2154.930796
+953: Complex number: real = 1798.574907, imaginary = 1190.169951. Double cast = 2156.704942
+954: Complex number: real = 1884.404765, imaginary = 1061.579362. Double cast = 2162.852760
+955: Complex number: real = 1337.386707, imaginary = 1717.831097. Double cast = 2177.050041
+956: Complex number: real = 1713.472729, imaginary = 1363.870751. Double cast = 2190.007356
+957: Complex number: real = 1314.907848, imaginary = 1752.114107. Double cast = 2190.636093
+958: Complex number: real = 1756.170796, imaginary = 1322.031404. Double cast = 2198.158979
+959: Complex number: real = 1224.755856, imaginary = 1826.011531. Double cast = 2198.714401
+960: Complex number: real = 1822.135349, imaginary = 1242.346350. Double cast = 2205.357496
+961: Complex number: real = 1963.798596, imaginary = 1013.627795. Double cast = 2209.965210
+962: Complex number: real = 1446.256384, imaginary = 1675.620714. Double cast = 2213.450317
+963: Complex number: real = 1956.026340, imaginary = 1042.762344. Double cast = 2216.617321
+964: Complex number: real = 1892.526454, imaginary = 1155.903056. Double cast = 2217.604170
+965: Complex number: real = 1724.589809, imaginary = 1403.929698. Double cast = 2223.786997
+966: Complex number: real = 1067.017517, imaginary = 1952.538175. Double cast = 2225.068922
+967: Complex number: real = 1788.178100, imaginary = 1332.606110. Double cast = 2230.116580
+968: Complex number: real = 1892.143244, imaginary = 1225.499835. Double cast = 2254.341567
+969: Complex number: real = 1836.944193, imaginary = 1322.060262. Double cast = 2263.229397
+970: Complex number: real = 1085.159758, imaginary = 1995.661994. Double cast = 2271.615833
+971: Complex number: real = 1381.826259, imaginary = 1814.935912. Double cast = 2281.104157
+972: Complex number: real = 1192.327444, imaginary = 1947.681452. Double cast = 2283.661046
+973: Complex number: real = 1960.900591, imaginary = 1180.174854. Double cast = 2288.655460
+974: Complex number: real = 1590.800032, imaginary = 1649.586755. Double cast = 2291.676505
+975: Complex number: real = 1645.316178, imaginary = 1598.104098. Double cast = 2293.687431
+976: Complex number: real = 1874.547190, imaginary = 1335.029054. Double cast = 2301.353894
+977: Complex number: real = 1513.063804, imaginary = 1746.292468. Double cast = 2310.605864
+978: Complex number: real = 1766.104969, imaginary = 1492.802019. Double cast = 2312.484514
+979: Complex number: real = 1373.796292, imaginary = 1872.292202. Double cast = 2322.239079
+980: Complex number: real = 1774.110159, imaginary = 1517.803789. Double cast = 2334.779475
+981: Complex number: real = 1403.630165, imaginary = 1873.488743. Double cast = 2340.969395
+982: Complex number: real = 1606.248698, imaginary = 1703.449308. Double cast = 2341.318950
+983: Complex number: real = 1626.050393, imaginary = 1693.641374. Double cast = 2347.863068
+984: Complex number: real = 1327.926625, imaginary = 1966.087020. Double cast = 2372.527617
+985: Complex number: real = 1954.458496, imaginary = 1374.302487. Double cast = 2389.270880
+986: Complex number: real = 1522.199563, imaginary = 1852.487855. Double cast = 2397.666108
+987: Complex number: real = 1695.075529, imaginary = 1699.764724. Double cast = 2400.516854
+988: Complex number: real = 1908.162428, imaginary = 1459.409058. Double cast = 2402.281967
+989: Complex number: real = 1921.841668, imaginary = 1450.827927. Double cast = 2407.981950
+990: Complex number: real = 1454.899207, imaginary = 1934.817065. Double cast = 2420.795071
+991: Complex number: real = 1849.009348, imaginary = 1576.520960. Double cast = 2429.867055
+992: Complex number: real = 1600.541535, imaginary = 1901.159216. Double cast = 2485.184011
+993: Complex number: real = 1880.186764, imaginary = 1634.927755. Double cast = 2491.604108
+994: Complex number: real = 1793.475158, imaginary = 1745.231401. Double cast = 2502.475930
+995: Complex number: real = 1890.150312, imaginary = 1724.833682. Double cast = 2558.851194
+996: Complex number: real = 1820.016075, imaginary = 1825.109083. Double cast = 2577.495233
+997: Complex number: real = 1889.126712, imaginary = 1832.621634. Double cast = 2631.976783
+998: Complex number: real = 1947.991243, imaginary = 1814.540020. Double cast = 2662.184322
+999: Complex number: real = 1958.224801, imaginary = 1873.653012. Double cast = 2710.206630
+1000: Complex number: real = 1934.165764, imaginary = 1913.176306. Double cast = 2720.522153
